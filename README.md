@@ -17,4 +17,4 @@
 
 Вот тут список:
 - Бейзлайн на основе фреймворка flair (Test F1-score: 0.4970) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rexhaif/ner-dialogues-hackathon/blob/master/baselines/flair/Baseline-Flair.ipynb)
-- Бейзлайн на основе фреймворка huggngface/transformers (Test F1-score: 0.8208) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rexhaif/ner-dialogues-hackathon/blob/master/baselines/transformers/Baseline-Transformer.ipynb)
+- Бейзлайн на основе фреймворка huggigface/transformers (Test F1-score: 0.8208) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rexhaif/ner-dialogues-hackathon/blob/master/baselines/transformers/Baseline-Transformer.ipynb)
