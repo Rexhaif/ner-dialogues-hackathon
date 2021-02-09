@@ -15,3 +15,6 @@
 ## Baselines
 Для того, чтобы вы могли начать эксперименты с минимальными усилиями мы подготовили несколько базовых вариантов решений, они находятся в папке /baselines.
 
+Вот тут список:
+- Бейзлайн на основе фреймворка flair (Test F1-score: 0.4970) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rexhaif/ner-dialogues-hackathon/blob/master/baselines/flair/Baseline-Flair.ipynb)
+
