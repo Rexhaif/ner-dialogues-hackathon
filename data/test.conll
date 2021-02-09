@@ -1,0 +1,8278 @@
+воспроизводим	O
+автора	O
+дистрес	B-SINGER
+песню	O
+далеко	B-SONG
+
+зажги	O
+
+расскажи	O
+Ariana	B-SINGER
+Grande	I-SINGER
+
+вруби	O
+чижа	B-SINGER
+
+играй	O
+кошк	B-SONG
+которая	I-SONG
+гуляет	I-SONG
+сама	I-SONG
+по	I-SONG
+себе	I-SONG
+
+спой	O
+босх	B-SINGER
+с	I-SINGER
+тобо	I-SINGER
+
+воспроизводим	O
+фарго	B-FILM
+
+давай	O
+послушаем	O
+щедрин	B-COMPOSER
+
+давай	O
+послушаем	O
+я	B-SONG
+готов	I-SONG
+целовать	I-SONG
+песок	I-SONG
+по	I-SONG
+которому	I-SONG
+ты	I-SONG
+ходила	I-SONG
+
+играй	O
+Santa	B-SONG
+Lucia	I-SONG
+
+давай	O
+включи	O
+Kartikeya	B-SINGER
+
+пой	O
+колыбельн	B-SONG
+
+давай	O
+послушаем	O
+Bobina	B-SINGER
+
+расскажи	O
+из	O
+без	B-FILM
+лица	I-FILM
+песню	O
+закрой	B-SONG
+за	I-SONG
+мной	I-SONG
+дверь	I-SONG
+
+включи	O
+супермаркет	B-SINGER
+
+вруби	O
+композитора	O
+сезар	B-COMPOSER
+франк	I-COMPOSER
+песню	O
+вуле	B-SONG
+ву	I-SONG
+
+воспроизведи	O
+смэшин	B-SINGER
+пампкинз	I-SINGER
+
+расскажи	O
+дне	B-FILM
+
+включи	O
+вард	B-SINGER
+рейслинк	I-SINGER
+
+давай	O
+
+проиграй	O
+Stab	B-SINGER
+
+давай	O
+послушаем	O
+артур	B-SINGER
+перес	I-SINGER
+реверт	I-SINGER
+
+давай	O
+включи	O
+Everything	B-SINGER
+But	I-SINGER
+The	I-SINGER
+Girl	I-SINGER
+
+давай	O
+равел	B-COMPOSER
+
+расскажи	O
+даунт	B-SONG
+
+вруби	O
+арканджело	B-COMPOSER
+корелли	I-COMPOSER
+
+вруби	O
+человек	B-BOOK
+ниоткуда	I-BOOK
+
+расскажи	O
+Pompeya	B-SINGER
+
+давай	O
+послушаем	O
+эм	B-SINGER
+зэ	I-SINGER
+
+давай	O
+включи	O
+брамс	B-COMPOSER
+
+воспроизводим	O
+дня	B-FILM
+выборов	I-FILM
+
+расскажи	O
+из	O
+виноваты	B-FILM
+звёзды	I-FILM
+песню	O
+La	B-SONG
+Boheme	I-SONG
+
+расскажи	O
+Penny	B-SONG
+Lane	I-SONG
+
+зажги	O
+автора	O
+хилем	B-SINGER
+песню	O
+Alejandro	B-SONG
+
+включи	O
+лучше	B-FILM
+не	I-FILM
+бывает	I-FILM
+
+проиграй	O
+раса	B-SINGER
+
+воспроизводим	O
+бортнянск	B-COMPOSER
+
+давай	O
+послушаем	O
+рэин	B-SONG
+
+давай	O
+включи	O
+песню	O
+а	B-SONG
+снег	I-SONG
+идёт	I-SONG
+автора	O
+Janelle	B-SINGER
+Monae	I-SINGER
+
+включи	O
+автора	O
+Joni	B-SINGER
+Mitchell	I-SINGER
+
+давай	O
+включи	O
+Old	B-SINGER
+Wainds	I-SINGER
+
+давай	O
+послушаем	O
+сибелиус	B-COMPOSER
+
+включи	O
+песню	O
+свит	B-SONG
+автора	O
+ноль	B-SINGER
+
+давай	O
+включи	O
+же	B-SONG
+
+воспроизведи	O
+
+давай	O
+послушаем	O
+томе	B-BOOK
+джонс	I-BOOK
+
+расскажи	O
+таксист	B-FILM
+
+воспроизведи	O
+хороньк	B-SINGER
+оркестр	I-SINGER
+
+давай	O
+послушаем	O
+
+воспроизводим	O
+Goodbye	B-SONG
+Yellow	I-SONG
+Brick	I-SONG
+Road	I-SONG
+
+воспроизведи	O
+певца	O
+марк	B-SINGER
+хэддон	I-SINGER
+
+пой	O
+александр	B-SINGER
+пушкин	I-SINGER
+
+расскажи	O
+шостакович	B-COMPOSER
+
+спой	O
+песни	O
+из	O
+фильма	O
+на	B-FILM
+гребн	I-FILM
+волн	I-FILM
+
+вруби	O
+крысины	B-FILM
+бега	I-FILM
+
+давай	O
+включи	O
+автора	O
+кэмбоудиэ	B-SINGER
+песню	O
+For	B-SONG
+All	I-SONG
+We	I-SONG
+Know	I-SONG
+
+расскажи	O
+композитора	O
+песню	O
+Thank	B-SONG
+You	I-SONG
+For	I-SONG
+The	I-SONG
+Music	I-SONG
+
+давай	O
+включи	O
+автора	O
+хег	B-SINGER
+песню	O
+токин	B-SONG
+
+расскажи	O
+шальн	B-SONG
+императриц	I-SONG
+
+вруби	O
+страшил	B-FILM
+
+проиграй	O
+ле	B-SONG
+
+играй	O
+юрия	B-SINGER
+
+расскажи	O
+автобан	B-SONG
+
+давай	O
+включи	O
+автора	O
+шнуров	B-SINGER
+песню	O
+файрбол	B-SONG
+
+расскажи	O
+композитора	O
+пендерецк	B-COMPOSER
+песню	O
+паруса	B-SONG
+
+играй	O
+джонатан	B-SINGER
+франзен	I-SINGER
+
+воспроизведи	O
+сказка	B-BOOK
+перед	I-BOOK
+сном	I-BOOK
+
+давай	O
+послушаем	O
+хуан	B-SINGER
+гойтисол	I-SINGER
+
+спой	O
+автора	O
+милорад	B-SINGER
+павич	I-SINGER
+
+давай	O
+послушаем	O
+моторхед	B-SINGER
+
+пой	O
+певца	O
+мэклин	B-SINGER
+
+давай	O
+послушаем	O
+александр	B-COMPOSER
+скрябин	I-COMPOSER
+
+пой	O
+композитора	O
+рамо	B-COMPOSER
+песню	O
+аи	B-SONG
+ду	I-SONG
+ай	I-SONG
+
+вруби	O
+глюком	B-COMPOSER
+
+расскажи	O
+хулиган	B-FILM
+
+вруби	O
+сказка	B-BOOK
+перед	I-BOOK
+сном	I-BOOK
+
+играй	O
+жизнь	B-BOOK
+
+воспроизведи	O
+композитора	O
+бриттен	B-COMPOSER
+песню	O
+жуи	B-SONG
+
+давай	O
+включи	O
+жорж	B-COMPOSER
+бизе	I-COMPOSER
+
+включи	O
+серге	B-SINGER
+есенин	I-SINGER
+
+зажги	O
+автора	O
+даниэл	B-SINGER
+песню	O
+летний	B-SONG
+
+давай	O
+послушаем	O
+втор	B-FILM
+
+расскажи	O
+серая	B-BOOK
+
+давай	O
+пэт	B-SINGER
+баркер	I-SINGER
+
+проиграй	O
+Ashley	B-SINGER
+Tisdale	I-SINGER
+
+вруби	O
+автора	O
+васили	B-SINGER
+к	I-SINGER
+песню	O
+A	B-SONG
+Chaque	I-SONG
+Fois	I-SONG
+JY	I-SONG
+Crois	I-SONG
+
+включи	O
+треть	B-FILM
+
+включи	O
+автора	O
+Kelis	B-SINGER
+песню	O
+шарэсан	B-SONG
+
+играй	O
+Tico	B-SONG
+Tico	I-SONG
+
+воспроизводим	O
+Pompeya	B-SINGER
+
+расскажи	O
+мюриэл	B-SINGER
+спарк	I-SINGER
+
+воспроизводим	O
+фильм	O
+четвёрт	B-FILM
+
+давай	O
+включи	O
+инкубус	B-SINGER
+
+расскажи	O
+любовь	B-SONG
+
+спой	O
+книгу	O
+загадк	B-BOOK
+песок	I-BOOK
+
+вруби	O
+управлени	B-FILM
+гневом	I-FILM
+
+давай	O
+включи	O
+оленя	B-SONG
+
+играй	O
+певца	O
+эльфрид	B-SINGER
+елинек	I-SINGER
+
+спой	O
+гуго	B-COMPOSER
+вольф	I-COMPOSER
+
+давай	O
+включи	O
+вэ	B-SONG
+
+воспроизводим	O
+мэникюром	B-SINGER
+
+давай	O
+послушаем	O
+маятник	B-BOOK
+фуко	I-BOOK
+
+давай	O
+железников	B-SINGER
+
+включи	O
+композитора	O
+никола	B-COMPOSER
+мясковск	I-COMPOSER
+песню	O
+Chi	B-SONG
+Mai	I-SONG
+
+давай	O
+послушаем	O
+автора	O
+джон	B-SINGER
+бёрджер	I-SINGER
+песню	O
+лэи	B-SONG
+леи	I-SONG
+
+воспроизведи	O
+автора	O
+ландыши	B-SINGER
+песню	O
+жё	B-SONG
+тэм	I-SONG
+
+включи	O
+ламии	B-SINGER
+
+воспроизведи	O
+гуго	B-COMPOSER
+вольф	I-COMPOSER
+
+включи	O
+скотн	B-BOOK
+двор	I-BOOK
+
+проиграй	O
+The	B-SINGER
+Weeknd	I-SINGER
+
+давай	O
+Shinedown	B-SINGER
+
+пой	O
+иль	B-SONG
+сэм	I-SONG
+
+воспроизведи	O
+дороге	B-FILM
+
+воспроизводим	O
+цици	B-SINGER
+
+расскажи	O
+автора	O
+чехов	B-SINGER
+песню	O
+нам	B-SONG
+не	I-SONG
+жить	I-SONG
+друг	I-SONG
+без	I-SONG
+друга	I-SONG
+
+проиграй	O
+любви	B-SONG
+
+пой	O
+форе	B-COMPOSER
+
+спой	O
+автора	O
+Kate	B-SINGER
+Bush	I-SINGER
+песню	O
+топ	B-SONG
+топ	I-SONG
+
+давай	O
+включи	O
+роберт	B-SINGER
+болань	I-SINGER
+
+играй	O
+одинок	B-BOOK
+лондонц	I-BOOK
+
+воспроизводим	O
+идентификац	B-FILM
+
+расскажи	O
+автора	O
+роберт	B-SINGER
+трессел	I-SINGER
+песню	O
+анкора	B-SONG
+виво	I-SONG
+
+включи	O
+аквамен	B-FILM
+
+воспроизводим	O
+барин	B-BOOK
+и	I-BOOK
+собака	I-BOOK
+
+вруби	O
+рихард	B-COMPOSER
+штраус	I-COMPOSER
+
+давай	O
+послушаем	O
+зощенко	B-SINGER
+
+проиграй	O
+Little	B-SINGER
+Dead	I-SINGER
+Bertha	I-SINGER
+
+спой	O
+Comfortably	B-SONG
+Numb	I-SONG
+
+воспроизводим	O
+марк	B-SINGER
+данилевск	I-SINGER
+
+давай	O
+включи	O
+зи	B-SINGER
+
+давай	O
+дорогу	B-BOOK
+
+вруби	O
+сил	B-SINGER
+
+играй	O
+прокофьев	B-COMPOSER
+
+давай	O
+послушаем	O
+Lumen	B-SINGER
+
+воспроизводим	O
+автобан	B-SONG
+
+расскажи	O
+автора	O
+Sheryl	B-SINGER
+Crow	I-SINGER
+песню	O
+белорусси	B-SONG
+
+расскажи	O
+эминем	B-SINGER
+
+спой	O
+мои	B-SINGER
+ракет	I-SINGER
+вверх	I-SINGER
+
+расскажи	O
+Adele	B-SINGER
+
+давай	O
+включи	O
+зеркал	B-FILM
+
+воспроизводим	O
+Santa	B-SONG
+Lucia	I-SONG
+
+воспроизведи	O
+охотник	B-FILM
+за	I-FILM
+головами	I-FILM
+
+пой	O
+сердц	B-BOOK
+тьмы	I-BOOK
+
+давай	O
+холдар	B-SINGER
+
+воспроизводим	O
+голого	B-FILM
+
+давай	O
+послушаем	O
+Aaliyah	B-SINGER
+
+давай	O
+включи	O
+славе	B-BOOK
+
+расскажи	O
+Ci	B-SONG
+Sara	I-SONG
+
+проиграй	O
+автора	O
+кэнадис	B-SINGER
+
+проиграй	O
+Salma	B-SONG
+Ya	I-SONG
+Salama	I-SONG
+
+воспроизводим	O
+собач	B-BOOK
+сердц	I-BOOK
+
+вруби	O
+Названия	B-SONG
+песен	I-SONG
+однозначные	I-SONG
+
+зажги	O
+живется	B-BOOK
+
+воспроизведи	O
+мур	B-SINGER
+
+спой	O
+песню	O
+Since	B-SONG
+I	I-SONG
+ve	I-SONG
+Been	I-SONG
+Loving	I-SONG
+You	I-SONG
+из	O
+дрожь	B-FILM
+
+воспроизводим	O
+шлюз	B-SINGER
+
+проиграй	O
+даме	B-BOOK
+с	I-BOOK
+собачкой	I-BOOK
+
+вруби	O
+разбит	B-BOOK
+апрел	I-BOOK
+
+вруби	O
+джон	B-SINGER
+кутзе	I-SINGER
+
+воспроизводим	O
+Jouez	B-SONG
+Bouzouki	I-SONG
+
+спой	O
+Gimme	B-SONG
+Gimme	I-SONG
+Gimme	I-SONG
+A	I-SONG
+Man	I-SONG
+After	I-SONG
+Midnight	I-SONG
+
+вруби	O
+Distimia	B-SINGER
+
+воспроизводим	O
+вебера	B-COMPOSER
+
+давай	O
+включи	O
+певца	O
+Good	B-SINGER
+Charlotte	I-SINGER
+
+пой	O
+автора	O
+умк	B-SINGER
+и	I-SINGER
+броневик	I-SINGER
+
+проиграй	O
+управлени	B-FILM
+гневом	I-FILM
+
+вруби	O
+Mooncake	B-SINGER
+
+спой	O
+певца	O
+моей	B-SINGER
+
+давай	O
+послушаем	O
+мэнсфилдпарк	B-BOOK
+
+пой	O
+тимати	B-SINGER
+
+давай	O
+послушаем	O
+два	B-FILM
+ствол	I-FILM
+
+зажги	O
+жёлт	B-BOOK
+
+включи	O
+ваше	B-SONG
+благородие	I-SONG
+госпожа	I-SONG
+удача	I-SONG
+
+давай	O
+бесаме	B-SONG
+
+воспроизведи	O
+сэд	B-SONG
+бат	I-SONG
+
+расскажи	O
+автора	O
+чалза	B-SINGER
+песню	O
+Flick	B-SONG
+Of	I-SONG
+The	I-SONG
+Wrist	I-SONG
+
+пой	O
+Viens	B-SONG
+Viens	I-SONG
+
+вруби	O
+Dropkick	B-SINGER
+Murphys	I-SINGER
+
+вруби	O
+старик	B-BOOK
+и	I-BOOK
+море	I-BOOK
+
+спой	O
+шпана	B-BOOK
+
+расскажи	O
+The	B-SINGER
+White	I-SINGER
+Trainers	I-SINGER
+Community	I-SINGER
+
+расскажи	O
+головах	B-FILM
+два	I-FILM
+
+расскажи	O
+джентльмен	B-FILM
+удач	I-FILM
+
+пой	O
+автора	O
+бич	B-SINGER
+хаус	I-SINGER
+песню	O
+вэ	B-SONG
+
+проиграй	O
+композитора	O
+яначек	B-COMPOSER
+
+воспроизведи	O
+нападени	B-FILM
+на	I-FILM
+тринадцат	I-FILM
+участок	I-FILM
+
+проиграй	O
+дефо	B-SINGER
+
+зажги	O
+песни	O
+из	O
+фильма	O
+звездны	B-FILM
+войн	I-FILM
+звёздны	I-FILM
+
+пой	O
+американск	B-FILM
+истори	I-FILM
+икс	I-FILM
+
+давай	O
+послушаем	O
+шнитке	B-COMPOSER
+
+давай	O
+Believe	B-SONG
+
+давай	O
+включи	O
+песню	O
+файнл	B-SONG
+автора	O
+сукачев	B-SINGER
+
+вруби	O
+шуберт	B-COMPOSER
+
+вруби	O
+конкорди	B-SINGER
+антаров	I-SINGER
+
+воспроизводим	O
+автора	O
+Chuck	B-SINGER
+Berry	I-SINGER
+песню	O
+манчэстэр	B-SONG
+эт	I-SONG
+
+вруби	O
+произведение	O
+омбре	B-SONG
+перфекто	I-SONG
+
+зажги	O
+грань	B-FILM
+
+воспроизводим	O
+Glory	B-SINGER
+Dies	I-SINGER
+Inside	I-SINGER
+
+включи	O
+питер	B-SINGER
+хёг	I-SINGER
+
+спой	O
+твенти	B-SINGER
+
+давай	O
+включи	O
+габриел	B-COMPOSER
+форе	I-COMPOSER
+
+расскажи	O
+из	O
+остров	B-FILM
+песню	O
+Ne	B-SONG
+Me	I-SONG
+Quitte	I-SONG
+Pas	I-SONG
+
+спой	O
+жоскен	B-COMPOSER
+депре	I-COMPOSER
+
+давай	O
+послушаем	O
+In	B-SONG
+The	I-SONG
+Army	I-SONG
+Now	I-SONG
+
+включи	O
+антон	B-COMPOSER
+брукнер	I-COMPOSER
+
+воспроизведи	O
+NOubliez	B-SONG
+Jamais	I-SONG
+
+включи	O
+владимир	B-SINGER
+бартол	I-SINGER
+
+проиграй	O
+иоганн	B-COMPOSER
+бах	I-COMPOSER
+
+спой	O
+автора	O
+кэллам	B-SINGER
+
+спой	O
+судья	B-FILM
+
+играй	O
+Santa	B-SONG
+Lucia	I-SONG
+
+давай	O
+включи	O
+магнитн	B-SINGER
+аномали	I-SINGER
+
+давай	O
+автора	O
+григор	B-SINGER
+белых	I-SINGER
+песню	O
+LEte	B-SONG
+Indien	I-SONG
+
+вруби	O
+Ci	B-SONG
+Sara	I-SONG
+
+расскажи	O
+песню	O
+я	B-SONG
+тебя	I-SONG
+подожду	I-SONG
+автора	O
+тютчев	B-SINGER
+
+играй	O
+NOubliez	B-SONG
+Jamais	I-SONG
+
+вруби	O
+таис	B-BOOK
+
+воспроизведи	O
+феис	B-SONG
+
+пой	O
+песню	O
+над	B-SONG
+окошком	I-SONG
+месяц	I-SONG
+под	I-SONG
+окошком	I-SONG
+ветер	I-SONG
+автора	O
+технология	B-SINGER
+
+воспроизводим	O
+пиджак	B-FILM
+
+расскажи	O
+же	B-SONG
+
+давай	O
+послушаем	O
+рельс	B-SINGER
+
+вруби	O
+Ne	B-SONG
+Me	I-SONG
+Quitte	I-SONG
+Pas	I-SONG
+
+давай	O
+послушаем	O
+человек	B-FILM
+паук	I-FILM
+возвращени	I-FILM
+домой	I-FILM
+
+расскажи	O
+исаак	B-COMPOSER
+осипович	I-COMPOSER
+дунаевск	I-COMPOSER
+
+воспроизводим	O
+автора	O
+кеннэдиз	B-SINGER
+песню	O
+поговори	B-SONG
+со	I-SONG
+мною	I-SONG
+мама	I-SONG
+
+зажги	O
+скид	B-SINGER
+
+играй	O
+тридцать	B-BOOK
+девять	I-BOOK
+ступене	I-BOOK
+
+воспроизводим	O
+иван	B-SINGER
+царевич	I-SINGER
+
+давай	O
+включи	O
+Estelle	B-SINGER
+
+играй	O
+ямайк	B-SINGER
+кинкейд	I-SINGER
+
+играй	O
+песню	O
+хэлау	B-SONG
+автора	O
+Xuman	B-SINGER
+
+пой	O
+смерт	B-BOOK
+в	I-BOOK
+риме	I-BOOK
+
+зажги	O
+луци	B-SINGER
+апуле	I-SINGER
+
+включи	O
+банда	B-FILM
+нью	I-FILM
+йорк	I-FILM
+
+пой	O
+мийо	B-COMPOSER
+
+давай	O
+включи	O
+витас	B-SINGER
+
+воспроизведи	O
+аудиокнигу	O
+скромн	B-BOOK
+предложени	I-BOOK
+
+давай	O
+песню	O
+адажиау	B-SONG
+
+проиграй	O
+веи	B-SONG
+
+включи	O
+автора	O
+Jennifer	B-SINGER
+Lopez	I-SINGER
+песню	O
+двадцать	B-SONG
+лет	I-SONG
+спустя	I-SONG
+
+вруби	O
+уиль	B-SONG
+
+давай	O
+послушаем	O
+ласл	B-SINGER
+краснахорка	I-SINGER
+
+пой	O
+тинеишес	B-SINGER
+ди	I-SINGER
+
+играй	O
+кингконг	B-FILM
+
+пой	O
+дэвид	B-SINGER
+ливит	I-SINGER
+
+пой	O
+стюарт	B-SINGER
+
+спой	O
+Nie	B-SONG
+Spoczniemy	I-SONG
+
+включи	O
+ференц	B-COMPOSER
+
+спой	O
+ле	B-SONG
+клюин	I-SONG
+
+вруби	O
+сказочн	B-SONG
+тайг	I-SONG
+
+давай	O
+послушаем	O
+скарлатти	B-COMPOSER
+
+давай	O
+книгу	O
+несси	B-BOOK
+
+давай	O
+включи	O
+юрии	B-SINGER
+шевчук	I-SINGER
+
+давай	O
+включи	O
+дневник	B-BOOK
+стоун	I-BOOK
+
+расскажи	O
+саши	B-SINGER
+
+расскажи	O
+песню	O
+For	B-SONG
+All	I-SONG
+We	I-SONG
+Know	I-SONG
+композитора	O
+сен	B-COMPOSER
+санс	I-COMPOSER
+
+спой	O
+никола	B-SINGER
+басков	I-SINGER
+
+вруби	O
+автора	O
+и	B-SINGER
+секс	I-SINGER
+
+включи	O
+гарри	B-FILM
+поттер	I-FILM
+и	I-FILM
+узник	I-FILM
+азкабан	I-FILM
+
+давай	O
+послушаем	O
+автора	O
+эджворт	B-SINGER
+песню	O
+Creep	B-SONG
+
+воспроизводим	O
+песню	O
+вьёло	B-SONG
+композитора	O
+сезар	B-COMPOSER
+франк	I-COMPOSER
+
+давай	O
+включи	O
+клюн	B-SONG
+
+давай	O
+аленьк	B-BOOK
+цветочек	I-BOOK
+
+включи	O
+что	B-SONG
+такое	I-SONG
+осень	I-SONG
+
+включи	O
+ов	B-SONG
+
+давай	O
+послушаем	O
+догвил	B-FILM
+
+спой	O
+лешик	B-BOOK
+на	I-BOOK
+острове	I-BOOK
+мечты	I-BOOK
+
+воспроизведи	O
+казаки	B-BOOK
+
+вруби	O
+автора	O
+элизиум	B-SINGER
+песню	O
+Mammy	B-SONG
+Blue	I-SONG
+
+вруби	O
+кени	B-SINGER
+
+проиграй	O
+Une	B-SONG
+Femme	I-SONG
+A	I-SONG
+Ans	I-SONG
+
+давай	O
+послушаем	O
+автора	O
+валкнут	B-SINGER
+песню	O
+саламэ	B-SONG
+
+спой	O
+розенбаум	B-SINGER
+
+пой	O
+Macy	B-SINGER
+Gray	I-SINGER
+
+играй	O
+Play	B-SONG
+The	I-SONG
+Game	I-SONG
+
+воспроизведи	O
+фридерик	B-COMPOSER
+шопен	I-COMPOSER
+
+зажги	O
+
+воспроизводим	O
+автора	O
+Mazzy	B-SINGER
+Star	I-SINGER
+песню	O
+жуэ	B-SONG
+бузуки	I-SONG
+
+включи	O
+глазунов	B-COMPOSER
+
+расскажи	O
+георги	B-COMPOSER
+васильевич	I-COMPOSER
+свиридов	I-COMPOSER
+
+воспроизводим	O
+фосс	B-BOOK
+
+пой	O
+Godsmack	B-SINGER
+
+давай	O
+охотника	B-FILM
+
+пой	O
+певца	O
+провода	B-SINGER
+
+включи	O
+эйлис	B-SINGER
+
+пой	O
+ком	B-SONG
+туа	I-SONG
+
+пой	O
+янь	B-SINGER
+
+пой	O
+пи	B-SINGER
+оу	I-SINGER
+ди	I-SINGER
+
+зажги	O
+ветерок	B-SONG
+
+вруби	O
+шостакович	B-COMPOSER
+
+воспроизведи	O
+фильм	O
+тихоокеанск	B-FILM
+рубеж	I-FILM
+
+давай	O
+орланд	B-BOOK
+
+пой	O
+апостолос	B-SINGER
+доксиадис	I-SINGER
+
+давай	O
+включи	O
+шютц	B-COMPOSER
+
+зажги	O
+поезд	B-SONG
+
+вруби	O
+автора	O
+порт	B-SINGER
+восемьсот	I-SINGER
+двенадцат	I-SINGER
+песню	O
+искала	B-SONG
+
+спой	O
+автора	O
+Icon	B-SINGER
+In	I-SINGER
+Me	I-SINGER
+песню	O
+розенрот	B-SONG
+
+играй	O
+автора	O
+мор	B-SINGER
+песню	O
+ком	B-SONG
+дизе	I-SONG
+
+играй	O
+певца	O
+муми	B-SINGER
+тролл	I-SINGER
+
+играй	O
+композитора	O
+орфом	B-COMPOSER
+
+давай	O
+оленя	B-SINGER
+
+проиграй	O
+кора	B-SINGER
+
+давай	O
+послушаем	O
+бошетунма	B-SONG
+
+давай	O
+включи	O
+звёзд	B-BOOK
+
+давай	O
+включи	O
+ком	B-SONG
+иль	I-SONG
+диз	I-SONG
+
+давай	O
+Nie	B-SONG
+Spoczniemy	I-SONG
+
+давай	O
+послушаем	O
+коризы	B-SINGER
+
+проиграй	O
+дорожку	O
+In	B-SONG
+Bloom	I-SONG
+
+давай	O
+дорого	B-FILM
+джон	I-FILM
+
+играй	O
+эрик	B-SINGER
+эмблер	I-SINGER
+
+вруби	O
+песню	O
+ауеи	B-SONG
+автора	O
+алое	B-SINGER
+блэк	I-SINGER
+
+зажги	O
+Total	B-SINGER
+
+вруби	O
+блэкторн	B-SINGER
+
+вруби	O
+автора	O
+Curtis	B-SINGER
+Mayfield	I-SINGER
+песню	O
+литалиано	B-SONG
+
+расскажи	O
+автора	O
+файарз	B-SINGER
+песню	O
+куа	B-SONG
+
+давай	O
+послушаем	O
+самом	B-FILM
+пьян	I-FILM
+округ	I-FILM
+в	I-FILM
+мире	I-FILM
+
+включи	O
+джеффри	B-SINGER
+евгенидис	I-SINGER
+
+спой	O
+граф	B-SINGER
+лотреамон	I-SINGER
+
+зажги	O
+произведение	O
+чист	B-BOOK
+свет	I-BOOK
+дня	I-BOOK
+
+вруби	O
+дидже	B-SINGER
+смэш	I-SINGER
+
+играй	O
+зоннэ	B-SONG
+
+играй	O
+OH	B-SINGER
+
+давай	O
+включи	O
+композитора	O
+михаил	B-COMPOSER
+иванович	I-COMPOSER
+глинк	I-COMPOSER
+
+воспроизведи	O
+певца	O
+Meaning	B-SINGER
+Beside	I-SINGER
+
+давай	O
+включи	O
+на	B-BOOK
+игле	I-BOOK
+
+включи	O
+карел	B-SINGER
+чапек	I-SINGER
+
+вруби	O
+Sara	B-SONG
+Perche	I-SONG
+Ti	I-SONG
+Amo	I-SONG
+
+включи	O
+Peter	B-SINGER
+Nalitch	I-SINGER
+
+играй	O
+астерикс	B-FILM
+и	I-FILM
+обеликс	I-FILM
+против	I-FILM
+цезар	I-FILM
+
+давай	O
+включи	O
+депре	B-COMPOSER
+
+играй	O
+лоуис	B-SINGER
+
+давай	O
+послушаем	O
+лигалайз	B-SINGER
+
+давай	O
+послушаем	O
+этногенез	B-BOOK
+и	I-BOOK
+биосфер	I-BOOK
+земли	I-BOOK
+
+включи	O
+кис	B-SINGER
+кис	I-SINGER
+
+пой	O
+джеи	B-SINGER
+коул	I-SINGER
+
+расскажи	O
+клубник	B-SONG
+со	I-SONG
+льдом	I-SONG
+
+включи	O
+жё	B-SONG
+не	I-SONG
+
+включи	O
+композитора	O
+танеев	B-COMPOSER
+песню	O
+Tanha	B-SONG
+Shodam	I-SONG
+El	I-SONG
+Bimbo	I-SONG
+
+включи	O
+автора	O
+рыбников	B-SINGER
+песню	O
+Atom	B-SONG
+Heart	I-SONG
+Mother	I-SONG
+Suite	I-SONG
+
+давай	O
+послушаем	O
+анатол	B-SINGER
+франс	I-SINGER
+
+вруби	O
+улиц	B-BOOK
+миддак	I-BOOK
+
+играй	O
+автора	O
+носков	B-SINGER
+песню	O
+ле	B-SONG
+вальс	I-SONG
+
+давай	O
+послушаем	O
+михаил	B-SINGER
+зощенко	I-SINGER
+
+играй	O
+костёр	B-SONG
+
+давай	O
+включи	O
+автора	O
+крэк	B-SINGER
+песню	O
+Voyage	B-SONG
+Voyage	I-SONG
+
+расскажи	O
+воскресени	B-SINGER
+
+вруби	O
+лудакрис	B-SINGER
+
+играй	O
+замыкая	B-SONG
+круг	I-SONG
+
+спой	O
+паул	B-SINGER
+коэльо	I-SINGER
+
+спой	O
+селис	B-SONG
+
+воспроизведи	O
+из	O
+хранителей	B-FILM
+песню	O
+взгляд	B-SONG
+с	I-SONG
+экрана	I-SONG
+
+спой	O
+флёр	B-SINGER
+
+давай	O
+послушаем	O
+фильм	O
+воскрешени	B-FILM
+
+давай	O
+лиц	B-FILM
+
+играй	O
+Brian	B-SINGER
+Eno	I-SINGER
+
+спой	O
+голуб	B-BOOK
+чашк	I-BOOK
+
+включи	O
+виндем	B-SINGER
+льюис	I-SINGER
+
+воспроизведи	O
+песню	O
+Ivan	B-SONG
+Boris	I-SONG
+Et	I-SONG
+Moi	I-SONG
+автора	O
+Jane	B-SINGER
+Air	I-SINGER
+
+вруби	O
+людочк	B-BOOK
+
+спой	O
+александр	B-COMPOSER
+гречанинов	I-COMPOSER
+
+воспроизведи	O
+кому	B-BOOK
+на	I-BOOK
+руси	I-BOOK
+жить	I-BOOK
+хорошо	I-BOOK
+
+проиграй	O
+лютер	B-SINGER
+
+давай	O
+послушаем	O
+дорожку	O
+I	B-SONG
+Was	I-SONG
+Made	I-SONG
+For	I-SONG
+Lovin	I-SONG
+You	I-SONG
+
+давай	O
+включи	O
+ай	B-SONG
+
+вруби	O
+я	B-BOOK
+с	I-BOOK
+тобой	I-BOOK
+добры	I-BOOK
+сказка	I-BOOK
+
+расскажи	O
+книгу	O
+проклят	B-BOOK
+и	I-BOOK
+убит	I-BOOK
+
+пой	O
+четверт	B-SINGER
+
+вруби	O
+орф	B-COMPOSER
+
+пой	O
+Cant	B-SONG
+Get	I-SONG
+You	I-SONG
+Out	I-SONG
+Of	I-SONG
+My	I-SONG
+Head	I-SONG
+
+воспроизводим	O
+филантроп	B-BOOK
+в	I-BOOK
+рван	I-BOOK
+штан	I-BOOK
+
+вруби	O
+фаитарз	B-SINGER
+
+воспроизведи	O
+автора	O
+Moremoney	B-SINGER
+песню	O
+диалог	B-SONG
+у	I-SONG
+телевизора	I-SONG
+
+воспроизводим	O
+ганс	B-SINGER
+эн	I-SINGER
+роузиз	I-SINGER
+
+давай	O
+лира	B-SINGER
+
+включи	O
+мандарин	B-BOOK
+
+давай	O
+включи	O
+лопатк	B-SINGER
+
+давай	O
+включи	O
+хандрид	B-SINGER
+анд	I-SINGER
+
+играй	O
+куку	B-SINGER
+
+включи	O
+колин	B-SINGER
+макиннес	I-SINGER
+
+давай	O
+послушаем	O
+Tico	B-SONG
+Tico	I-SONG
+
+проиграй	O
+Heartbreaker	B-SONG
+
+включи	O
+зыкин	B-SINGER
+
+проиграй	O
+автора	O
+джанг	B-SINGER
+чанг	I-SINGER
+
+пой	O
+елочн	B-SINGER
+игрушка	I-SINGER
+
+давай	O
+послушаем	O
+никому	B-SONG
+тебя	I-SONG
+я	I-SONG
+не	I-SONG
+отдам	I-SONG
+
+давай	O
+автора	O
+Amos	B-SINGER
+Lee	I-SINGER
+песню	O
+дэунт	B-SONG
+стоп	I-SONG
+
+давай	O
+включи	O
+токио	B-SINGER
+
+воспроизведи	O
+Fferyllt	B-SINGER
+
+играй	O
+смерт	B-BOOK
+артеми	I-BOOK
+круса	I-BOOK
+
+играй	O
+профессионал	B-FILM
+
+пой	O
+Atmoravi	B-SINGER
+
+воспроизводим	O
+песню	O
+сэлис	B-SONG
+
+включи	O
+тропэу	B-SONG
+
+давай	O
+послушаем	O
+фильм	O
+час	B-FILM
+пик	I-FILM
+
+спой	O
+бутусов	B-SINGER
+
+расскажи	O
+балакирев	B-COMPOSER
+
+играй	O
+джея	B-SINGER
+
+пой	O
+песню	O
+зи	B-SONG
+композитора	O
+никола	B-COMPOSER
+мясковск	I-COMPOSER
+
+давай	O
+салю	B-SONG
+
+воспроизводим	O
+Mario	B-SINGER
+
+пой	O
+автора	O
+песню	O
+Across	B-SONG
+The	I-SONG
+Universe	I-SONG
+
+давай	O
+включи	O
+композитора	O
+стравинск	B-COMPOSER
+песню	O
+Money	B-SONG
+For	I-SONG
+Nothing	I-SONG
+
+проиграй	O
+город	B-BOOK
+и	I-BOOK
+псы	I-BOOK
+
+вруби	O
+Taking	B-SINGER
+Back	I-SINGER
+Sunday	I-SINGER
+
+проиграй	O
+песню	O
+шальн	B-SONG
+императриц	I-SONG
+автора	O
+джеймс	B-SINGER
+хогг	I-SINGER
+
+расскажи	O
+штехлин	B-BOOK
+
+зажги	O
+ямайк	B-SINGER
+кинкейд	I-SINGER
+
+играй	O
+глинк	B-COMPOSER
+
+расскажи	O
+арто	B-SINGER
+паасилин	I-SINGER
+
+зажги	O
+сияни	B-FILM
+
+играй	O
+ле	B-SONG
+фей	I-SONG
+
+проиграй	O
+Crowded	B-SINGER
+House	I-SINGER
+
+расскажи	O
+никола	B-COMPOSER
+андреевич	I-COMPOSER
+римск	I-COMPOSER
+корсаков	I-COMPOSER
+
+давай	O
+алис	B-BOOK
+в	I-BOOK
+стране	I-BOOK
+чудес	I-BOOK
+
+зажги	O
+автора	O
+Bullet	B-SINGER
+For	I-SINGER
+My	I-SINGER
+Valentine	I-SINGER
+песню	O
+Ci	B-SONG
+Sara	I-SONG
+
+включи	O
+рихард	B-COMPOSER
+штраус	I-COMPOSER
+
+играй	O
+из	O
+одержимост	B-FILM
+песню	O
+нейшн	B-SONG
+
+играй	O
+песню	O
+Avec	B-SONG
+Le	I-SONG
+Temps	I-SONG
+композитора	O
+густав	B-COMPOSER
+малер	I-COMPOSER
+
+воспроизводим	O
+фильм	O
+днях	B-FILM
+лета	I-FILM
+
+зажги	O
+Torment	B-SINGER
+Day	I-SINGER
+
+давай	O
+послушаем	O
+автора	O
+хендрик	B-SINGER
+консьянс	I-SINGER
+песню	O
+Lei	B-SONG
+Lei	I-SONG
+
+вруби	O
+автора	O
+валерию	B-SINGER
+песню	O
+Sara	B-SONG
+Perche	I-SONG
+Ti	I-SONG
+Amo	I-SONG
+
+воспроизведи	O
+Forest	B-SINGER
+
+давай	O
+Forest	B-SINGER
+
+давай	O
+послушаем	O
+бриттен	B-COMPOSER
+
+включи	O
+Ambidextrous	B-SINGER
+
+воспроизводим	O
+миссис	B-BOOK
+дэллоуэй	I-BOOK
+
+расскажи	O
+мистэнгет	B-SONG
+
+играй	O
+листьев	B-SONG
+
+пой	O
+эраусмис	B-SINGER
+
+проиграй	O
+лайфхауз	B-SINGER
+
+проиграй	O
+боя	B-SONG
+
+проиграй	O
+Poison	B-SONG
+
+проиграй	O
+шандор	B-SINGER
+мараи	I-SINGER
+
+включи	O
+господин	B-FILM
+никто	I-FILM
+
+включи	O
+друзья	B-FILM
+оушен	I-FILM
+
+пой	O
+A	B-SONG
+Chaque	I-SONG
+Fois	I-SONG
+JY	I-SONG
+Crois	I-SONG
+
+давай	O
+послушаем	O
+песню	O
+Run	B-SONG
+For	I-SONG
+Your	I-SONG
+Life	I-SONG
+
+расскажи	O
+автора	O
+великоруссом	B-SINGER
+
+вруби	O
+промышленн	B-SINGER
+архитектур	I-SINGER
+
+пой	O
+песню	O
+Je	B-SONG
+TAime	I-SONG
+автора	O
+киркоров	B-SINGER
+
+проиграй	O
+crrust	B-SINGER
+
+давай	O
+включи	O
+ольг	B-SINGER
+арефьев	I-SINGER
+ковчег	I-SINGER
+
+воспроизводим	O
+алое	B-SINGER
+блэк	I-SINGER
+
+давай	O
+послушаем	O
+автора	O
+за	B-SINGER
+песню	O
+Bella	B-SONG
+Ciao	I-SONG
+
+зажги	O
+пятьсот	B-FILM
+дней	I-FILM
+
+вруби	O
+автора	O
+сач	B-SINGER
+а	I-SINGER
+песню	O
+об	B-SONG
+ла	I-SONG
+дай	I-SONG
+
+проиграй	O
+песню	O
+Viens	B-SONG
+Viens	I-SONG
+композитора	O
+ян	B-COMPOSER
+сибелиус	I-COMPOSER
+
+давай	O
+послушаем	O
+джованни	B-SINGER
+верга	I-SINGER
+
+играй	O
+Tenacious	B-SINGER
+D	I-SINGER
+
+пой	O
+дистемпа	B-SINGER
+
+проиграй	O
+песню	O
+Celos	B-SONG
+композитора	O
+дунаевск	B-COMPOSER
+
+играй	O
+херисан	B-SINGER
+
+давай	O
+три	B-SINGER
+
+проиграй	O
+глубокой	B-BOOK
+
+играй	O
+кар	B-SINGER
+мэн	I-SINGER
+
+проиграй	O
+гдр	B-SINGER
+
+давай	O
+включи	O
+Sara	B-SONG
+Perche	I-SONG
+Ti	I-SONG
+Amo	I-SONG
+
+давай	O
+послушаем	O
+артур	B-SINGER
+шницлер	I-SINGER
+
+давай	O
+нютрал	B-SINGER
+
+давай	O
+послушаем	O
+линдэ	B-SINGER
+
+давай	O
+послушаем	O
+пассажиры	B-FILM
+
+вруби	O
+жамэ	B-SONG
+
+воспроизводим	O
+каизэ	B-SINGER
+
+спой	O
+рейде	B-FILM
+
+воспроизведи	O
+реальны	B-FILM
+упыри	I-FILM
+
+давай	O
+включи	O
+песню	O
+лебедин	B-SONG
+верност	I-SONG
+композитора	O
+бах	B-COMPOSER
+
+воспроизведи	O
+механик	B-FILM
+
+давай	O
+певца	O
+йорша	B-SINGER
+
+пой	O
+Ritual	B-SINGER
+Front	I-SINGER
+
+воспроизводим	O
+джей	B-FILM
+и	I-FILM
+молчалив	I-FILM
+боб	I-FILM
+наносят	I-FILM
+ответн	I-FILM
+удар	I-FILM
+
+давай	O
+время	B-SONG
+есть	I-SONG
+а	I-SONG
+денег	I-SONG
+нет	I-SONG
+
+зажги	O
+нейромант	B-BOOK
+
+включи	O
+драматическ	B-BOOK
+трилоги	I-BOOK
+
+воспроизводим	O
+богоматер	B-BOOK
+убийц	I-BOOK
+
+вруби	O
+Hallelujah	B-SONG
+
+давай	O
+автора	O
+валентин	B-SINGER
+осеев	I-SINGER
+песню	O
+You	B-SONG
+Can	I-SONG
+Leave	I-SONG
+Your	I-SONG
+Hat	I-SONG
+On	I-SONG
+
+спой	O
+откровени	B-SINGER
+дожд	I-SINGER
+
+расскажи	O
+томас	B-SINGER
+мофол	I-SINGER
+
+спой	O
+уипиз	B-SINGER
+
+играй	O
+аи	B-SINGER
+
+давай	O
+послушаем	O
+андре	B-SINGER
+мальр	I-SINGER
+
+воспроизводим	O
+энтони	B-SINGER
+пауэл	I-SINGER
+
+воспроизведи	O
+Distemper	B-SINGER
+
+вруби	O
+произведение	O
+изобретени	B-BOOK
+морел	I-BOOK
+
+воспроизведи	O
+долфин	B-SINGER
+
+воспроизведи	O
+хэлэлуйэ	B-SONG
+
+расскажи	O
+minus	B-SINGER
+
+воспроизводим	O
+песню	O
+Friends	B-SONG
+Will	I-SONG
+Be	I-SONG
+Friends	I-SONG
+автора	O
+Dергать	B-SINGER
+
+воспроизведи	O
+фидлер	B-SINGER
+
+пой	O
+диджэ	B-SINGER
+
+пой	O
+композитора	O
+йозеф	B-COMPOSER
+гайдн	I-COMPOSER
+песню	O
+Belle	B-SONG
+
+играй	O
+георги	B-COMPOSER
+свиридов	I-COMPOSER
+
+вруби	O
+герман	B-SINGER
+
+пой	O
+падает	B-SONG
+снег	I-SONG
+
+включи	O
+Amederia	B-SINGER
+
+включи	O
+Mein	B-SONG
+Herz	I-SONG
+Brennt	I-SONG
+
+давай	O
+послушаем	O
+композитора	O
+дмитр	B-COMPOSER
+дмитриевич	I-COMPOSER
+шостакович	I-COMPOSER
+песню	O
+La	B-SONG
+Boheme	I-SONG
+
+проиграй	O
+певца	O
+Bleeding	B-SINGER
+Nature	I-SINGER
+
+давай	O
+включи	O
+нэвэсмаил	B-SINGER
+
+давай	O
+We	B-SONG
+Are	I-SONG
+The	I-SONG
+Champions	I-SONG
+
+воспроизведи	O
+вайноу	B-SONG
+
+давай	O
+включи	O
+автора	O
+My	B-SINGER
+Autumn	I-SINGER
+песню	O
+Une	B-SONG
+Vie	I-SONG
+DAmour	I-SONG
+
+включи	O
+софи	B-COMPOSER
+асгатовн	I-COMPOSER
+губайдулин	I-COMPOSER
+
+вруби	O
+автора	O
+диккенс	B-SINGER
+песню	O
+спид	B-SONG
+кин	I-SONG
+
+спой	O
+зэар	B-SONG
+
+проиграй	O
+за	B-SONG
+
+включи	O
+барбаросс	B-BOOK
+
+спой	O
+Gossip	B-SINGER
+
+давай	O
+оноре	B-SINGER
+бальзак	I-SINGER
+
+воспроизводим	O
+петл	B-SINGER
+нестерова	I-SINGER
+
+играй	O
+Spitfire	B-SINGER
+
+проиграй	O
+из	O
+невидим	B-FILM
+сторон	I-FILM
+песню	O
+салю	B-SONG
+
+вруби	O
+иван	B-SINGER
+клим	I-SINGER
+
+вруби	O
+дне	B-FILM
+
+зажги	O
+crrust	B-SINGER
+
+расскажи	O
+песню	O
+два	B-SONG
+автора	O
+двадцать	B-SINGER
+файв	I-SINGER
+
+воспроизводим	O
+
+зажги	O
+последн	B-FILM
+бойскаут	I-FILM
+
+спой	O
+антон	B-COMPOSER
+брукнер	I-COMPOSER
+
+играй	O
+россини	B-COMPOSER
+
+давай	O
+послушаем	O
+в	B-BOOK
+поиск	I-BOOK
+утраченн	I-BOOK
+времен	I-BOOK
+
+давай	O
+включи	O
+Sara	B-SONG
+Perche	I-SONG
+Ti	I-SONG
+Amo	I-SONG
+
+воспроизведи	O
+послеобеденн	B-BOOK
+врем	I-BOOK
+писател	I-BOOK
+
+давай	O
+послушаем	O
+главн	B-BOOK
+улиц	I-BOOK
+
+спой	O
+дасаев	B-SINGER
+
+давай	O
+послушаем	O
+ночь	B-BOOK
+нежна	I-BOOK
+
+вруби	O
+двухсотлетн	B-FILM
+человек	I-FILM
+
+вруби	O
+дио	B-SINGER
+
+давай	O
+послушаем	O
+автора	O
+йозеф	B-SINGER
+шкворецк	I-SINGER
+
+пой	O
+карибас	B-SINGER
+
+спой	O
+песню	O
+Voila	B-SONG
+Pourquoi	I-SONG
+Je	I-SONG
+Chante	I-SONG
+автора	O
+Vladimir	B-SINGER
+Ashkenazy	I-SINGER
+
+воспроизведи	O
+автора	O
+Sam	B-SINGER
+Smith	I-SINGER
+песню	O
+изи	B-SONG
+ливин	I-SONG
+
+включи	O
+невест	B-BOOK
+бубе	I-BOOK
+
+зажги	O
+автора	O
+новалис	B-SINGER
+
+спой	O
+пианист	B-FILM
+
+пой	O
+блэкдес	B-SINGER
+
+расскажи	O
+песочны	B-SINGER
+люди	I-SINGER
+
+включи	O
+арду	B-SINGER
+
+включи	O
+автора	O
+тэм	B-SINGER
+гринхил	I-SINGER
+песню	O
+Ancora	B-SONG
+Vivo	I-SONG
+
+пой	O
+Boris	B-SINGER
+Grebenshikov	I-SINGER
+
+спой	O
+песню	O
+ту	B-SONG
+из	O
+омерзительн	B-FILM
+восьмёрк	I-FILM
+
+играй	O
+человек	B-BOOK
+ниоткуда	I-BOOK
+
+играй	O
+песню	O
+тудэй	B-SONG
+автора	O
+BiopsyhoZ	B-SINGER
+
+давай	O
+эми	B-SINGER
+хемпел	I-SINGER
+
+включи	O
+автора	O
+Three	B-SINGER
+Days	I-SINGER
+Grace	I-SINGER
+песню	O
+дождя	B-SONG
+
+проиграй	O
+биопсихоз	B-SINGER
+
+давай	O
+послушаем	O
+фильм	O
+ван	B-FILM
+хельсинг	I-FILM
+
+воспроизведи	O
+телен	B-SINGER
+гвад	I-SINGER
+
+включи	O
+александр	B-COMPOSER
+тихонович	I-COMPOSER
+гречанинов	I-COMPOSER
+
+вруби	O
+автора	O
+виктэм	B-SINGER
+
+играй	O
+степи	B-BOOK
+
+спой	O
+утраченн	B-BOOK
+иллюзи	I-BOOK
+
+давай	O
+включи	O
+мва	B-SONG
+
+давай	O
+включи	O
+путешестви	B-BOOK
+фелиции	I-BOOK
+
+спой	O
+кон	B-FILM
+тики	I-FILM
+
+давай	O
+включи	O
+песню	O
+гая	B-SONG
+автора	O
+шаши	B-SINGER
+дешпанд	I-SINGER
+
+проиграй	O
+Life	B-SONG
+Is	I-SONG
+Life	I-SONG
+
+зажги	O
+али	B-FILM
+
+давай	O
+алессандр	B-SINGER
+мандзони	I-SINGER
+
+играй	O
+эдной	B-SINGER
+обрайен	I-SINGER
+
+давай	O
+послушаем	O
+автора	O
+Sarah	B-SINGER
+McLachlan	I-SINGER
+песню	O
+Comme	B-SONG
+Ils	I-SONG
+Disent	I-SONG
+
+вруби	O
+
+давай	O
+послушаем	O
+автора	O
+мечтать	B-SINGER
+песню	O
+диалог	B-SONG
+у	I-SONG
+телевизора	I-SONG
+
+давай	O
+послушаем	O
+патриси	B-SINGER
+данкер	I-SINGER
+
+проиграй	O
+саляма	B-SONG
+
+спой	O
+вильямсон	B-SINGER
+
+давай	O
+послушаем	O
+четверт	B-FILM
+
+давай	O
+послушаем	O
+паустовск	B-SINGER
+
+воспроизведи	O
+The	B-SINGER
+Fray	I-SINGER
+
+расскажи	O
+далимань	B-SONG
+
+давай	O
+включи	O
+Sleetgrout	B-SINGER
+
+включи	O
+ян	B-COMPOSER
+сибелиус	I-COMPOSER
+
+играй	O
+сторие	B-SONG
+
+вруби	O
+шармы	B-SINGER
+
+давай	O
+включи	O
+автора	O
+сильфами	B-SINGER
+песню	O
+не	B-SONG
+стреляй	I-SONG
+
+давай	O
+рекэвин	B-SINGER
+
+включи	O
+копях	B-BOOK
+соломона	I-BOOK
+
+вруби	O
+снэу	B-SINGER
+патроул	I-SINGER
+
+играй	O
+эдвард	B-COMPOSER
+хагеруп	I-COMPOSER
+григ	I-COMPOSER
+
+давай	O
+москв	B-BOOK
+и	I-BOOK
+москвич	I-BOOK
+
+давай	O
+включи	O
+стивен	B-SINGER
+хокинг	I-SINGER
+
+играй	O
+
+играй	O
+лермонтов	B-SINGER
+
+пой	O
+A	B-SONG
+Chaque	I-SONG
+Fois	I-SONG
+JY	I-SONG
+Crois	I-SONG
+
+воспроизведи	O
+композитора	O
+листом	B-COMPOSER
+
+воспроизводим	O
+Ils	B-SONG
+SAiment	I-SONG
+
+давай	O
+включи	O
+элио	B-SINGER
+витторини	I-SINGER
+
+проиграй	O
+йозеф	B-COMPOSER
+гайдн	I-COMPOSER
+
+расскажи	O
+транс	B-FILM
+
+вруби	O
+отверженны	B-BOOK
+
+давай	O
+пение	B-BOOK
+
+вруби	O
+косу	B-BOOK
+
+зажги	O
+эзекиел	B-SINGER
+мпахлел	I-SINGER
+
+пой	O
+ангелз	B-SONG
+
+играй	O
+автора	O
+Chris	B-SINGER
+Cornell	I-SINGER
+песню	O
+аддио	B-SONG
+
+проиграй	O
+Adagio	B-SONG
+
+давай	O
+автора	O
+ваенг	B-SINGER
+
+воспроизводим	O
+автора	O
+голдфингэ	B-SINGER
+песню	O
+Ne	B-SONG
+Me	I-SONG
+Quitte	I-SONG
+Pas	I-SONG
+
+воспроизводим	O
+судьб	B-BOOK
+барабанщика	I-BOOK
+
+расскажи	O
+алехандро	B-SONG
+
+давай	O
+послушаем	O
+день	B-FILM
+
+воспроизводим	O
+игор	B-SINGER
+растеряев	I-SINGER
+
+воспроизводим	O
+лэма	B-SINGER
+
+включи	O
+дракул	B-FILM
+брэм	I-FILM
+стокер	I-FILM
+
+давай	O
+послушаем	O
+автора	O
+раис	B-SINGER
+песню	O
+ночи	B-SONG
+
+давай	O
+тимур	B-SINGER
+шаов	I-SINGER
+
+зажги	O
+автора	O
+джек	B-SINGER
+керуак	I-SINGER
+
+проиграй	O
+мэнйуфэкчэр	B-SINGER
+
+спой	O
+Sharazan	B-SONG
+
+давай	O
+включи	O
+генрик	B-SINGER
+сенкевич	I-SINGER
+
+давай	O
+послушаем	O
+песню	O
+салю	B-SONG
+автора	O
+уаитом	B-SINGER
+
+воспроизведи	O
+проект	B-FILM
+икс	I-FILM
+дорвались	I-FILM
+
+давай	O
+послушаем	O
+жуи	B-SONG
+
+давай	O
+включи	O
+шуберт	B-COMPOSER
+
+вруби	O
+кэрри	B-FILM
+
+спой	O
+астрид	B-SINGER
+линдгрен	I-SINGER
+
+воспроизведи	O
+автора	O
+Evo	B-SINGER
+песню	O
+курю	B-SONG
+
+воспроизводим	O
+Non	B-SONG
+Je	I-SONG
+Ne	I-SONG
+Regrette	I-SONG
+Rien	I-SONG
+
+спой	O
+бортнянск	B-COMPOSER
+
+зажги	O
+матин	B-SINGER
+
+давай	O
+послушаем	O
+мор	B-SINGER
+виктим	I-SINGER
+
+включи	O
+ночь	B-FILM
+
+проиграй	O
+The	B-SONG
+Air	I-SONG
+That	I-SONG
+I	I-SONG
+Breathe	I-SONG
+
+воспроизведи	O
+песню	O
+фанстэр	B-SONG
+композитора	O
+джаком	B-COMPOSER
+пуччини	I-COMPOSER
+
+воспроизводим	O
+стериауфоникс	B-SINGER
+
+расскажи	O
+ветер	B-BOOK
+
+включи	O
+композитора	O
+петр	B-COMPOSER
+ильич	I-COMPOSER
+чайковск	I-COMPOSER
+песню	O
+Venus	B-SONG
+
+играй	O
+тутси	B-SINGER
+
+воспроизведи	O
+уамбэтс	B-SINGER
+
+расскажи	O
+розэнрот	B-SONG
+
+вруби	O
+автора	O
+олом	B-SINGER
+грин	I-SINGER
+песню	O
+
+воспроизводим	O
+гори	B-SONG
+гори	I-SONG
+моя	I-SONG
+звезда	I-SONG
+
+играй	O
+робин	B-FILM
+гуд	I-FILM
+
+пой	O
+дорожку	O
+хороши	B-SONG
+вечера	I-SONG
+на	I-SONG
+оби	I-SONG
+
+играй	O
+автора	O
+демо	B-SINGER
+песню	O
+мизари	B-SONG
+
+воспроизведи	O
+песню	O
+дэнатьюрэ	B-SONG
+автора	O
+Koriza	B-SINGER
+
+расскажи	O
+айм	B-SONG
+
+проиграй	O
+мусоргск	B-COMPOSER
+
+вруби	O
+из	O
+человек	B-FILM
+дожд	I-FILM
+песню	O
+танха	B-SONG
+
+играй	O
+саламэ	B-SONG
+
+зажги	O
+автора	O
+Anna	B-SINGER
+Netrebko	I-SINGER
+песню	O
+омм	B-SONG
+ки	I-SONG
+пас	I-SONG
+
+воспроизведи	O
+шуберт	B-COMPOSER
+
+воспроизводим	O
+двух	B-SONG
+берег	I-SONG
+
+воспроизведи	O
+композитора	O
+бенджамин	B-COMPOSER
+бриттен	I-COMPOSER
+песню	O
+Les	B-SONG
+Hommes	I-SONG
+Qui	I-SONG
+Passent	I-SONG
+
+проиграй	O
+джованни	B-SINGER
+верга	I-SINGER
+
+играй	O
+эрик	B-SINGER
+
+играй	O
+автора	O
+R	B-SINGER
+Kelly	I-SINGER
+песню	O
+Una	B-SONG
+Musica	I-SONG
+Brutal	I-SONG
+
+вруби	O
+гильдебранд	B-SINGER
+
+воспроизводим	O
+ивлин	B-SINGER
+во	I-SINGER
+
+вруби	O
+крыниц	B-SINGER
+
+воспроизводим	O
+михаил	B-COMPOSER
+иванович	I-COMPOSER
+глинк	I-COMPOSER
+
+вруби	O
+Thirty	B-SINGER
+
+проиграй	O
+лучиа	B-SONG
+
+давай	O
+включи	O
+сумеречн	B-BOOK
+год	I-BOOK
+
+давай	O
+включи	O
+мышонок	B-BOOK
+пик	I-BOOK
+
+давай	O
+включи	O
+парфюмер	B-FILM
+
+давай	O
+включи	O
+ёвин	B-SINGER
+
+давай	O
+включи	O
+автора	O
+Red	B-SINGER
+Elvises	I-SINGER
+песню	O
+еврисин	B-SONG
+
+спой	O
+мираж	B-SINGER
+
+пой	O
+певца	O
+рэкэвин	B-SINGER
+
+расскажи	O
+шоколадн	B-BOOK
+дедушк	I-BOOK
+
+давай	O
+послушаем	O
+гори	B-SONG
+гори	I-SONG
+моя	I-SONG
+звезда	I-SONG
+
+включи	O
+арду	B-SINGER
+
+играй	O
+сокровищ	B-FILM
+наци	I-FILM
+два	I-FILM
+
+воспроизводим	O
+песни	O
+из	O
+фильма	O
+одном	B-FILM
+день	I-FILM
+
+давай	O
+тахцис	B-SINGER
+
+воспроизводим	O
+угольк	B-BOOK
+
+вруби	O
+автора	O
+готье	B-SINGER
+песню	O
+клюн	B-SONG
+
+пой	O
+вё	B-SONG
+
+пой	O
+крокодил	B-FILM
+данди	I-FILM
+
+играй	O
+сен	B-COMPOSER
+санс	I-COMPOSER
+
+воспроизведи	O
+
+играй	O
+генри	B-SINGER
+джеймс	I-SINGER
+
+спой	O
+Grow	B-SONG
+Old	I-SONG
+With	I-SONG
+Me	I-SONG
+
+давай	O
+включи	O
+творожн	B-SINGER
+озер	I-SINGER
+
+спой	O
+монтеверди	B-COMPOSER
+
+давай	O
+включи	O
+ашенти	B-SINGER
+
+зажги	O
+из	B-FILM
+машины	I-FILM
+
+спой	O
+хантер	B-SINGER
+томпсон	I-SINGER
+
+зажги	O
+втор	B-FILM
+
+давай	O
+послушаем	O
+автора	O
+томас	B-SINGER
+нэш	I-SINGER
+песню	O
+Alejandro	B-SONG
+
+пой	O
+мигел	B-SINGER
+делибес	I-SINGER
+
+зажги	O
+рубинштейн	B-COMPOSER
+
+расскажи	O
+гарри	B-FILM
+поттер	I-FILM
+и	I-FILM
+кубок	I-FILM
+огня	I-FILM
+
+давай	O
+включи	O
+удобн	B-BOOK
+парень	I-BOOK
+
+включи	O
+из	B-FILM
+ада	I-FILM
+
+пой	O
+жизни	B-BOOK
+и	I-BOOK
+смерть	I-BOOK
+
+воспроизведи	O
+баллад	B-BOOK
+о	I-BOOK
+георг	I-BOOK
+хениг	I-BOOK
+
+проиграй	O
+ноган	B-SINGER
+
+зажги	O
+генрих	B-COMPOSER
+шютц	I-COMPOSER
+
+давай	O
+включи	O
+фантомас	B-FILM
+против	I-FILM
+скотланд	I-FILM
+ярд	I-FILM
+
+зажги	O
+убить	B-FILM
+билл	I-FILM
+
+давай	O
+послушаем	O
+бостэн	B-SINGER
+
+проиграй	O
+синий	B-SONG
+
+давай	O
+гору	B-FILM
+
+вруби	O
+ватек	B-BOOK
+
+зажги	O
+Nostalgie	B-SONG
+
+давай	O
+послушаем	O
+What	B-SONG
+Love	I-SONG
+Can	I-SONG
+Be	I-SONG
+
+давай	O
+включи	O
+втор	B-FILM
+
+воспроизводим	O
+лешик	B-BOOK
+на	I-BOOK
+острове	I-BOOK
+мечты	I-BOOK
+
+спой	O
+итал	B-SINGER
+кальвин	I-SINGER
+
+включи	O
+григом	B-COMPOSER
+
+давай	O
+включи	O
+выживш	B-FILM
+
+давай	O
+послушаем	O
+I	B-SONG
+Dont	I-SONG
+Wanna	I-SONG
+Be	I-SONG
+A	I-SONG
+Soldier	I-SONG
+Mama	I-SONG
+I	I-SONG
+Dont	I-SONG
+Wanna	I-SONG
+Die	I-SONG
+
+вруби	O
+амока	B-BOOK
+
+играй	O
+уилл	B-SINGER
+кэсер	I-SINGER
+
+вруби	O
+дориан	B-BOOK
+грей	I-BOOK
+
+пой	O
+
+играй	O
+в	B-SONG
+последнюю	I-SONG
+осень	I-SONG
+
+спой	O
+
+расскажи	O
+федерик	B-SINGER
+роберт	I-SINGER
+
+расскажи	O
+певца	O
+хуан	B-SINGER
+хосе	I-SINGER
+саэр	I-SINGER
+
+вруби	O
+астраден	B-BOOK
+
+давай	O
+включи	O
+антон	B-COMPOSER
+григорьевич	I-COMPOSER
+рубинштейн	I-COMPOSER
+
+давай	O
+включи	O
+композитора	O
+шютц	B-COMPOSER
+песню	O
+Voila	B-SONG
+Pourquoi	I-SONG
+Je	I-SONG
+Chante	I-SONG
+
+давай	O
+включи	O
+никос	B-SINGER
+казандзакис	I-SINGER
+
+давай	O
+включи	O
+гладиатор	B-FILM
+
+давай	O
+автора	O
+мэлекьюл	B-SINGER
+песню	O
+Tanha	B-SONG
+Shodam	I-SONG
+El	I-SONG
+Bimbo	I-SONG
+
+давай	O
+послушаем	O
+искуплени	B-FILM
+
+вруби	O
+
+проиграй	O
+аллилуй	B-SONG
+
+пой	O
+ордэнери	B-SONG
+
+зажги	O
+два	B-FILM
+тысяч	I-FILM
+первый	I-FILM
+
+проиграй	O
+наивом	B-SINGER
+
+расскажи	O
+ле	B-SONG
+фей	I-SONG
+
+зажги	O
+клюн	B-SONG
+
+давай	O
+том	B-BOOK
+
+зажги	O
+огромн	B-BOOK
+комнат	I-BOOK
+
+зажги	O
+из	O
+столкновени	B-FILM
+с	I-FILM
+бездной	I-FILM
+песню	O
+Sonne	B-SONG
+
+пой	O
+автора	O
+измороз	B-SINGER
+песню	O
+оф	B-SONG
+кинтая	I-SONG
+
+давай	O
+включи	O
+композитора	O
+доницетти	B-COMPOSER
+
+воспроизводим	O
+сальери	B-COMPOSER
+
+проиграй	O
+беккер	B-SINGER
+
+расскажи	O
+селис	B-SONG
+
+пой	O
+незнайк	B-BOOK
+на	I-BOOK
+луне	I-BOOK
+
+давай	O
+включи	O
+болтлив	B-BOOK
+баба	I-BOOK
+
+расскажи	O
+онсомбл	B-SONG
+
+играй	O
+гавриил	B-SINGER
+троепольск	I-SINGER
+
+пой	O
+из	O
+ярость	B-FILM
+песню	O
+буэм	B-SONG
+
+зажги	O
+песню	O
+стартин	B-SONG
+автора	O
+купала	B-SINGER
+
+спой	O
+
+давай	O
+аудиокнигу	O
+жизнь	B-BOOK
+
+проиграй	O
+транквилизатор	B-SONG
+
+давай	O
+джанго	B-SINGER
+
+зажги	O
+мюлис	B-SINGER
+
+спой	O
+на	B-FILM
+игле	I-FILM
+
+воспроизводим	O
+алой	B-BOOK
+букв	I-BOOK
+
+расскажи	O
+Avec	B-SONG
+Le	I-SONG
+Temps	I-SONG
+
+вруби	O
+бьянк	B-SINGER
+
+включи	O
+NeoNate	B-SINGER
+
+воспроизведи	O
+литтл	B-SINGER
+биг	I-SINGER
+
+проиграй	O
+парк	B-FILM
+юрск	I-FILM
+период	I-FILM
+
+давай	O
+включи	O
+автора	O
+брэгэйд	B-SINGER
+песню	O
+дождь	B-SONG
+
+включи	O
+моим	B-SINGER
+сердц	I-SINGER
+справа	I-SINGER
+
+воспроизведи	O
+Houston	B-SINGER
+Weve	I-SINGER
+Got	I-SINGER
+Problems	I-SINGER
+
+расскажи	O
+автора	O
+Male	B-SINGER
+Factors	I-SINGER
+песню	O
+лё	B-SONG
+
+воспроизводим	O
+стары	B-BOOK
+черти	I-BOOK
+
+зажги	O
+Nomans	B-SINGER
+Land	I-SINGER
+
+пой	O
+пасса	B-SONG
+
+расскажи	O
+станислав	B-SINGER
+виткевич	I-SINGER
+
+давай	O
+включи	O
+лера	B-SINGER
+
+давай	O
+замыкая	B-SONG
+круг	I-SONG
+
+включи	O
+произведение	O
+весел	B-SONG
+ветер	I-SONG
+
+давай	O
+послушаем	O
+композитора	O
+песню	O
+жамэ	B-SONG
+
+зажги	O
+аудиокнигу	O
+жил	B-BOOK
+был	I-BOOK
+сереньк	I-BOOK
+козлик	I-BOOK
+
+воспроизводим	O
+аутобан	B-SONG
+
+давай	O
+песни	O
+из	O
+фильма	O
+оружейн	B-FILM
+барон	I-FILM
+
+пой	O
+ворреи	B-SONG
+
+включи	O
+туве	B-SINGER
+янссон	I-SINGER
+
+зажги	O
+чингиз	B-SINGER
+айтматов	I-SINGER
+
+воспроизведи	O
+аудиокнигу	O
+годовщин	B-BOOK
+
+проиграй	O
+произведение	O
+Rolling	B-SONG
+In	I-SONG
+The	I-SONG
+Deep	I-SONG
+
+зажги	O
+пионерлагер	B-SINGER
+пыльн	I-SINGER
+радуг	I-SINGER
+
+давай	O
+включи	O
+песню	O
+Ich	B-SONG
+Will	I-SONG
+автора	O
+Xuman	B-SINGER
+
+давай	O
+черн	B-SINGER
+лукич	I-SINGER
+
+включи	O
+композитора	O
+арнольд	B-COMPOSER
+шёнберг	I-COMPOSER
+песню	O
+хэартц	B-SONG
+
+вруби	O
+автора	O
+летов	B-SINGER
+песню	O
+Teo	B-SONG
+Torriatte	I-SONG
+Let	I-SONG
+Us	I-SONG
+Cling	I-SONG
+Together	I-SONG
+
+проиграй	O
+If	B-SONG
+
+воспроизводим	O
+атау	B-SINGER
+
+вруби	O
+филом	B-SINGER
+колинз	I-SINGER
+
+давай	O
+связях	B-BOOK
+
+воспроизведи	O
+Friends	B-SONG
+Will	I-SONG
+Be	I-SONG
+Friends	I-SONG
+
+вруби	O
+боец	B-FILM
+
+включи	O
+гиорг	B-SINGER
+конрад	I-SINGER
+
+давай	O
+включи	O
+а	B-SINGER
+ка	I-SINGER
+сорок	I-SINGER
+семь	I-SINGER
+
+давай	O
+послушаем	O
+браукэн	B-SINGER
+
+пой	O
+автора	O
+ален	B-SINGER
+роб	I-SINGER
+грийе	I-SINGER
+песню	O
+туману	B-SONG
+
+расскажи	O
+бездн	B-FILM
+
+спой	O
+кви	B-SONG
+
+воспроизводим	O
+пилот	B-SINGER
+
+зажги	O
+Tvangeste	B-SINGER
+
+воспроизведи	O
+из	O
+двойно	B-FILM
+удар	I-FILM
+песню	O
+я	B-SONG
+люблю	I-SONG
+тебя	I-SONG
+жизнь	I-SONG
+
+спой	O
+пурген	B-SINGER
+
+давай	O
+включи	O
+прочь	B-FILM
+
+давай	O
+послушаем	O
+бернард	B-SINGER
+ачаг	I-SINGER
+
+проиграй	O
+батоу	B-SINGER
+
+воспроизводим	O
+певца	O
+машин	B-SINGER
+времени	I-SINGER
+
+проиграй	O
+Salma	B-SONG
+Ya	I-SONG
+Salama	I-SONG
+
+проиграй	O
+звёзд	B-SINGER
+
+воспроизводим	O
+уэз	B-SONG
+
+давай	O
+послушаем	O
+песню	O
+леила	B-SONG
+автора	O
+Scythelence	B-SINGER
+
+давай	O
+включи	O
+Messer	B-SINGER
+Chups	I-SINGER
+
+давай	O
+включи	O
+маски	B-FILM
+
+давай	O
+включи	O
+автора	O
+градус	B-SINGER
+
+спой	O
+джим	B-SINGER
+крейс	I-SINGER
+
+пой	O
+одного	B-SONG
+взгляд	I-SONG
+назад	I-SONG
+
+играй	O
+T	B-SINGER
+
+пой	O
+фернанд	B-SINGER
+вальех	I-SINGER
+
+играй	O
+автора	O
+сколд	B-SINGER
+песню	O
+на	B-SONG
+кургане	I-SONG
+
+включи	O
+филатов	B-SINGER
+
+спой	O
+из	O
+остров	B-FILM
+проклятых	I-FILM
+песню	O
+A	B-SONG
+Toi	I-SONG
+
+давай	O
+включи	O
+невозможн	B-BOOK
+кинк	I-BOOK
+
+проиграй	O
+эдипов	B-SINGER
+комплекс	I-SINGER
+
+воспроизводим	O
+Mein	B-SONG
+Herz	I-SONG
+Brennt	I-SONG
+
+вруби	O
+
+вруби	O
+Bring	B-SONG
+Me	I-SONG
+To	I-SONG
+Life	I-SONG
+
+проиграй	O
+композитора	O
+малер	B-COMPOSER
+песню	O
+ком	B-SONG
+иль	I-SONG
+диз	I-SONG
+
+расскажи	O
+композитора	O
+орф	B-COMPOSER
+песню	O
+
+расскажи	O
+игзибит	B-SINGER
+
+проиграй	O
+
+воспроизводим	O
+пурква	B-SONG
+же	I-SONG
+
+давай	O
+включи	O
+шазам	B-FILM
+
+зажги	O
+в	B-SONG
+землянке	I-SONG
+
+играй	O
+фильм	O
+полицейск	B-FILM
+из	I-FILM
+беверли	I-FILM
+хиллз	I-FILM
+
+воспроизводим	O
+красн	B-SINGER
+дерево	I-SINGER
+
+играй	O
+песню	O
+братски	B-SONG
+могил	I-SONG
+автора	O
+джордж	B-SINGER
+гиссинг	I-SINGER
+
+проиграй	O
+кончится	B-SONG
+лето	I-SONG
+
+воспроизведи	O
+умниц	B-FILM
+уилл	I-FILM
+хантинг	I-FILM
+
+вруби	O
+стравинск	B-COMPOSER
+
+давай	O
+послушаем	O
+автора	O
+инструкци	B-SINGER
+по	I-SINGER
+выживанию	I-SINGER
+
+вруби	O
+повест	B-BOOK
+о	I-BOOK
+старик	I-BOOK
+такэтори	I-BOOK
+
+играй	O
+виолон	B-SONG
+
+включи	O
+дональд	B-SINGER
+бартельм	I-SINGER
+
+воспроизведи	O
+витас	B-SINGER
+
+проиграй	O
+Spice	B-SINGER
+Girls	I-SINGER
+
+включи	O
+шенберг	B-COMPOSER
+
+пой	O
+децл	B-SINGER
+
+пой	O
+певца	O
+алан	B-SINGER
+пейтон	I-SINGER
+
+пой	O
+автора	O
+Jimi	B-SINGER
+Hendrix	I-SINGER
+песню	O
+зигги	B-SONG
+стадаст	I-SONG
+
+спой	O
+из	O
+мира	B-FILM
+песню	O
+
+проиграй	O
+апдайк	B-SINGER
+
+воспроизведи	O
+бруно	B-SINGER
+шульц	I-SINGER
+
+вруби	O
+мисс	B-BOOK
+джин	I-BOOK
+брод	I-BOOK
+в	I-BOOK
+расцвете	I-BOOK
+лет	I-BOOK
+
+воспроизводим	O
+Everything	B-SONG
+I	I-SONG
+Do	I-SONG
+I	I-SONG
+Do	I-SONG
+It	I-SONG
+For	I-SONG
+You	I-SONG
+
+расскажи	O
+Princess	B-SONG
+Of	I-SONG
+The	I-SONG
+Universe	I-SONG
+
+давай	O
+послушаем	O
+Sumatra	B-SINGER
+
+воспроизведи	O
+Liberta	B-SONG
+
+давай	O
+послушаем	O
+иван	B-SONG
+бори	I-SONG
+
+воспроизведи	O
+леван	B-SONG
+
+воспроизведи	O
+леонкавалло	B-COMPOSER
+
+расскажи	O
+La	B-SONG
+Boheme	I-SONG
+
+включи	O
+меланхол	B-BOOK
+резистентност	I-BOOK
+
+зажги	O
+далимани	B-SONG
+
+воспроизведи	O
+лес	B-SINGER
+зан	I-SINGER
+
+воспроизведи	O
+песню	O
+фэис	B-SONG
+автора	O
+умки	B-SINGER
+
+пой	O
+фильм	O
+дрожи	B-FILM
+земли	I-FILM
+
+давай	O
+послушаем	O
+Emmanuelle	B-SONG
+
+включи	O
+антон	B-COMPOSER
+брукнер	I-COMPOSER
+
+зажги	O
+автора	O
+
+расскажи	O
+фантомас	B-BOOK
+
+включи	O
+йу	B-SONG
+
+вруби	O
+Moi	B-SONG
+Lolita	I-SONG
+
+вруби	O
+на	B-BOOK
+дне	I-BOOK
+
+давай	O
+певца	O
+бэри	B-SINGER
+
+пой	O
+чужих	B-FILM
+
+вруби	O
+анны	B-SINGER
+
+давай	O
+православн	B-BOOK
+казач	I-BOOK
+сказка	I-BOOK
+
+вруби	O
+втор	B-FILM
+
+зажги	O
+Sviatoslav	B-SINGER
+Richter	I-SINGER
+
+давай	O
+аудиокнигу	O
+шоколадн	B-BOOK
+дедушк	I-BOOK
+
+расскажи	O
+автора	O
+кузьмин	B-SINGER
+песню	O
+Una	B-SONG
+Musica	I-SONG
+Brutal	I-SONG
+
+воспроизведи	O
+автора	O
+Maio	B-SINGER
+
+играй	O
+кристин	B-SINGER
+хеммерехтс	I-SINGER
+
+давай	O
+автора	O
+катю	B-SINGER
+песню	O
+ностальжи	B-SONG
+
+играй	O
+егор	B-SINGER
+и	I-SINGER
+опизденевши	I-SINGER
+
+спой	O
+Bleeding	B-SINGER
+Nature	I-SINGER
+
+проиграй	O
+I	B-SINGER
+Am	I-SINGER
+Waiting	I-SINGER
+For	I-SINGER
+You	I-SINGER
+Last	I-SINGER
+Summer	I-SINGER
+
+воспроизводим	O
+рьен	B-SONG
+
+спой	O
+Sean	B-SINGER
+Kingston	I-SINGER
+
+спой	O
+траиб	B-SINGER
+колд	I-SINGER
+квэст	I-SINGER
+
+давай	O
+выкуп	B-FILM
+
+давай	O
+автора	O
+юга	B-SINGER
+песню	O
+Une	B-SONG
+Femme	I-SONG
+A	I-SONG
+Ans	I-SONG
+
+давай	O
+капитан	B-FILM
+фантастик	I-FILM
+
+воспроизведи	O
+матриц	B-FILM
+три	I-FILM
+
+зажги	O
+берлиоз	B-COMPOSER
+
+расскажи	O
+ауеи	B-SONG
+
+давай	O
+включи	O
+мстителей	B-FILM
+
+пой	O
+
+проиграй	O
+карт	B-FILM
+
+давай	O
+Avec	B-SONG
+Le	I-SONG
+Temps	I-SONG
+
+расскажи	O
+фриск	B-SINGER
+
+давай	O
+девять	B-FILM
+ярд	I-FILM
+
+спой	O
+автора	O
+Peggy	B-SINGER
+Lee	I-SINGER
+песню	O
+зи	B-SONG
+
+спой	O
+франсуаз	B-SINGER
+саган	I-SINGER
+
+вруби	O
+беззаботн	B-BOOK
+монастыр	I-BOOK
+
+проиграй	O
+автора	O
+Digimortal	B-SINGER
+песню	O
+Ils	B-SONG
+SAiment	I-SONG
+
+вруби	O
+дорожку	O
+чи	B-SONG
+сара	I-SONG
+
+давай	O
+композитора	O
+пётр	B-COMPOSER
+
+играй	O
+пиксис	B-SINGER
+
+проиграй	O
+либерта	B-SONG
+
+расскажи	O
+Ci	B-SONG
+Sara	I-SONG
+
+зажги	O
+автора	O
+Mumford	B-SINGER
+Sons	I-SINGER
+песню	O
+жё	B-SONG
+тэм	I-SONG
+
+играй	O
+роберт	B-SINGER
+хайнлайн	I-SINGER
+
+давай	O
+включи	O
+композитора	O
+паул	B-COMPOSER
+хиндемит	I-COMPOSER
+песню	O
+A	B-SONG
+Chaque	I-SONG
+Fois	I-SONG
+JY	I-SONG
+Crois	I-SONG
+
+вруби	O
+градус	B-SINGER
+
+воспроизведи	O
+скайфол	B-SONG
+
+спой	O
+поезд	B-SONG
+
+спой	O
+приключени	B-BOOK
+и	I-BOOK
+неудач	I-BOOK
+макролл	I-BOOK
+
+давай	O
+автора	O
+волор	B-SINGER
+песню	O
+огонек	B-SONG
+
+включи	O
+харизм	B-SINGER
+
+давай	O
+бэнасси	B-SINGER
+
+пой	O
+автора	O
+эрнст	B-SINGER
+юнгер	I-SINGER
+песню	O
+я	B-SONG
+знаю	I-SONG
+теперь	I-SONG
+
+спой	O
+тва	B-SONG
+
+вруби	O
+щелкунчик	B-BOOK
+и	I-BOOK
+мышин	I-BOOK
+царь	I-BOOK
+
+проиграй	O
+автора	O
+Cobra	B-SINGER
+Starship	I-SINGER
+песню	O
+Jouez	B-SONG
+Bouzouki	I-SONG
+
+включи	O
+супермаркет	B-SINGER
+
+спой	O
+гюстав	B-SINGER
+флобер	I-SINGER
+
+включи	O
+диджэ	B-SINGER
+
+давай	O
+включи	O
+айс	B-SINGER
+
+проиграй	O
+голос	B-FILM
+монстра	I-FILM
+
+играй	O
+Atreyu	B-SINGER
+
+проиграй	O
+книга	B-FILM
+илая	I-FILM
+
+пой	O
+депре	B-COMPOSER
+
+проиграй	O
+фильм	O
+риддик	B-FILM
+
+зажги	O
+автора	O
+русск	B-SINGER
+размер	I-SINGER
+песню	O
+я	B-SONG
+к	I-SONG
+тебе	I-SONG
+не	I-SONG
+подойду	I-SONG
+
+расскажи	O
+догом	B-SINGER
+
+давай	O
+включи	O
+песню	O
+бель	B-SONG
+из	O
+сердцеедк	B-FILM
+
+проиграй	O
+Kooqla	B-SINGER
+
+расскажи	O
+степь	B-BOOK
+
+спой	O
+александр	B-SINGER
+васильев	I-SINGER
+
+играй	O
+сто	B-FILM
+
+зажги	O
+Ambidextrous	B-SINGER
+
+включи	O
+песню	O
+йэлоу	B-SONG
+автора	O
+рашем	B-SINGER
+
+воспроизводим	O
+дерева	B-SINGER
+
+проиграй	O
+екклезиаст	B-SINGER
+
+расскажи	O
+леонкавалло	B-COMPOSER
+
+пой	O
+ричард	B-SINGER
+бротиган	I-SINGER
+
+давай	O
+уэйл	B-SINGER
+
+воспроизведи	O
+величайш	B-FILM
+шоумен	I-FILM
+
+расскажи	O
+Isaac	B-SINGER
+Hayes	I-SINGER
+
+вруби	O
+железн	B-FILM
+человек	I-FILM
+три	I-FILM
+
+спой	O
+чиз	B-SINGER
+пипл	I-SINGER
+
+давай	O
+включи	O
+Tequilajazzz	B-SINGER
+
+проиграй	O
+автора	O
+жорж	B-SINGER
+бернанос	I-SINGER
+
+спой	O
+любовь	B-SONG
+
+играй	O
+сьюи	B-SONG
+малад	I-SONG
+
+проиграй	O
+Voulez	B-SONG
+Vous	I-SONG
+
+включи	O
+In	B-SINGER
+A	I-SINGER
+Nutshell	I-SINGER
+
+играй	O
+каменн	B-BOOK
+цветок	I-BOOK
+
+зажги	O
+
+играй	O
+приют	B-BOOK
+грёз	I-BOOK
+
+пой	O
+темнозор	B-SINGER
+
+воспроизведи	O
+бэль	B-SONG
+
+вруби	O
+ингеборг	B-SINGER
+бахман	I-SINGER
+
+пой	O
+песню	O
+дамоур	B-SONG
+композитора	O
+бела	B-COMPOSER
+
+расскажи	O
+Funeral	B-SINGER
+For	I-SINGER
+A	I-SINGER
+Friend	I-SINGER
+
+расскажи	O
+нападени	B-FILM
+на	I-FILM
+тринадцат	I-FILM
+участок	I-FILM
+
+давай	O
+послушаем	O
+пак	B-SINGER
+
+проиграй	O
+йуэрэп	B-SINGER
+
+давай	O
+король	B-BOOK
+матиуш	I-BOOK
+перв	I-BOOK
+
+давай	O
+послушаем	O
+анкора	B-SONG
+виво	I-SONG
+
+давай	O
+включи	O
+последн	B-FILM
+самура	I-FILM
+
+воспроизводим	O
+густав	B-COMPOSER
+малер	I-COMPOSER
+
+играй	O
+автора	O
+александр	B-SINGER
+маршал	I-SINGER
+песню	O
+плота	B-SONG
+
+воспроизведи	O
+марго	B-BOOK
+и	I-BOOK
+ангел	I-BOOK
+
+воспроизведи	O
+баста	B-SINGER
+
+давай	O
+включи	O
+Branikald	B-SINGER
+
+спой	O
+серге	B-SINGER
+козлов	I-SINGER
+
+воспроизведи	O
+снайпер	B-FILM
+
+пой	O
+певца	O
+ундервуд	B-SINGER
+
+расскажи	O
+нож	B-SINGER
+для	I-SINGER
+фрау	I-SINGER
+мюллер	I-SINGER
+
+вруби	O
+дан	B-SONG
+ма	I-SONG
+рю	I-SONG
+
+воспроизводим	O
+хуан	B-SINGER
+хименес	I-SINGER
+
+давай	O
+автора	O
+Hozier	B-SINGER
+
+воспроизводим	O
+The	B-SINGER
+Chemical	I-SINGER
+Brothers	I-SINGER
+
+давай	O
+включи	O
+Come	B-SONG
+Vorrei	I-SONG
+
+зажги	O
+Fireball	B-SONG
+
+воспроизводим	O
+генри	B-COMPOSER
+пёрселл	I-COMPOSER
+
+давай	O
+послушаем	O
+песню	O
+эвэи	B-SONG
+автора	O
+русская	B-SINGER
+
+давай	O
+послушаем	O
+гэддис	B-SINGER
+
+воспроизводим	O
+
+вруби	O
+ванэс	B-SINGER
+
+давай	O
+певца	O
+карандаш	B-SINGER
+
+играй	O
+автора	O
+хорби	B-SINGER
+песню	O
+аргентин	B-SONG
+ямайк	I-SONG
+пять	I-SONG
+ноль	I-SONG
+
+проиграй	O
+Zorka	B-SINGER
+
+воспроизводим	O
+сэмом	B-SINGER
+селвон	I-SINGER
+
+включи	O
+
+проиграй	O
+напряг	B-FILM
+извилин	I-FILM
+
+воспроизведи	O
+Rekevin	B-SINGER
+
+давай	O
+дэннен	B-SINGER
+
+расскажи	O
+орги	B-SINGER
+праведник	I-SINGER
+
+вруби	O
+песню	O
+их	B-SONG
+композитора	O
+лео	B-COMPOSER
+делиб	I-COMPOSER
+
+проиграй	O
+иван	B-SINGER
+вазов	I-SINGER
+
+давай	O
+послушаем	O
+певца	O
+вудхаус	B-SINGER
+
+включи	O
+урок	B-BOOK
+французского	I-BOOK
+
+зажги	O
+семёнов	B-SINGER
+
+зажги	O
+автора	O
+Macy	B-SINGER
+Gray	I-SINGER
+песню	O
+Since	B-SONG
+I	I-SONG
+ve	I-SONG
+Been	I-SONG
+Loving	I-SONG
+You	I-SONG
+
+воспроизведи	O
+свин	B-SINGER
+в	I-SINGER
+космосе	I-SINGER
+
+проиграй	O
+селос	B-SONG
+
+давай	O
+Belle	B-SINGER
+And	I-SINGER
+Sebastian	I-SINGER
+
+вруби	O
+композитора	O
+йозеф	B-COMPOSER
+гайдн	I-COMPOSER
+
+включи	O
+Equinoxe	B-SONG
+Part	I-SONG
+
+расскажи	O
+жоскен	B-COMPOSER
+депре	I-COMPOSER
+
+вруби	O
+автора	O
+гризли	B-SINGER
+песню	O
+прекрасное	B-SONG
+далёко	I-SONG
+
+пой	O
+виолё	B-SONG
+
+вруби	O
+на	B-FILM
+крючке	I-FILM
+
+включи	O
+ышо	B-SINGER
+ышо	I-SINGER
+
+расскажи	O
+скрябин	B-COMPOSER
+
+зажги	O
+артур	B-SINGER
+шницлер	I-SINGER
+
+спой	O
+шуман	B-COMPOSER
+
+давай	O
+включи	O
+фильм	O
+королей	B-FILM
+
+включи	O
+иоганнес	B-COMPOSER
+брамс	I-COMPOSER
+
+вруби	O
+тимур	B-SINGER
+шаов	I-SINGER
+
+проиграй	O
+рассел	B-SINGER
+бэнкс	I-SINGER
+
+спой	O
+
+расскажи	O
+диаманд	B-SINGER
+галас	I-SINGER
+
+спой	O
+бела	B-COMPOSER
+
+давай	O
+послушаем	O
+Time	B-SONG
+To	I-SONG
+Live	I-SONG
+
+давай	O
+включи	O
+Sweets	B-SONG
+For	I-SONG
+My	I-SONG
+Sweet	I-SONG
+
+пой	O
+контейнер	B-SINGER
+
+зажги	O
+ленинград	B-SONG
+
+воспроизводим	O
+сомервил	B-SINGER
+
+воспроизводим	O
+ингейдж	B-SINGER
+
+спой	O
+автора	O
+эмил	B-SINGER
+чоран	I-SINGER
+песню	O
+дё	B-SONG
+вьен	I-SONG
+
+воспроизведи	O
+баи	B-SONG
+ми	I-SONG
+лав	I-SONG
+
+расскажи	O
+автора	O
+дидже	B-SINGER
+вадим	I-SINGER
+
+воспроизведи	O
+калинов	B-SINGER
+мост	I-SINGER
+
+включи	O
+композитора	O
+гуммел	B-COMPOSER
+песню	O
+дес	B-SONG
+
+воспроизведи	O
+
+пой	O
+феличит	B-SONG
+
+пой	O
+автора	O
+тирз	B-SINGER
+песню	O
+лучия	B-SONG
+
+расскажи	O
+жар	B-BOOK
+птиц	I-BOOK
+и	I-BOOK
+василис	I-BOOK
+царевн	I-BOOK
+
+зажги	O
+мёртвы	B-SINGER
+
+вруби	O
+трудност	B-FILM
+перевода	I-FILM
+
+давай	O
+Free	B-SONG
+As	I-SONG
+A	I-SONG
+Bird	I-SONG
+
+включи	O
+грига	B-COMPOSER
+
+включи	O
+песню	O
+Bella	B-SONG
+Ciao	I-SONG
+композитора	O
+беллини	B-COMPOSER
+
+играй	O
+из	O
+звёздны	B-FILM
+песню	O
+Ci	B-SONG
+Sara	I-SONG
+
+воспроизведи	O
+стрел	B-BOOK
+бог	I-BOOK
+
+включи	O
+кенаи	B-SINGER
+
+давай	O
+включи	O
+ихь	B-SONG
+виль	I-SONG
+
+играй	O
+крис	B-SINGER
+
+давай	O
+включи	O
+жаном	B-COMPOSER
+филипп	I-COMPOSER
+рамо	I-COMPOSER
+
+воспроизведи	O
+леонард	B-COMPOSER
+бернстайн	I-COMPOSER
+
+воспроизведи	O
+соборян	B-BOOK
+
+спой	O
+Death	B-SINGER
+From	I-SINGER
+Above	I-SINGER
+
+проиграй	O
+велик	B-FILM
+гэтсби	I-FILM
+
+играй	O
+евтушенко	B-SINGER
+
+проиграй	O
+автора	O
+йана	B-SINGER
+песню	O
+кэ	B-SONG
+пой	I-SONG
+
+давай	O
+послушаем	O
+жмурк	B-FILM
+
+играй	O
+ветра	B-SONG
+
+воспроизведи	O
+автора	O
+бостан	B-SINGER
+песню	O
+пасс	B-SONG
+
+спой	O
+доктор	B-BOOK
+фаустус	I-BOOK
+
+расскажи	O
+фон	B-COMPOSER
+вебер	I-COMPOSER
+
+включи	O
+крисом	B-SINGER
+браун	I-SINGER
+
+вруби	O
+мертвы	B-SINGER
+болгар	I-SINGER
+
+пой	O
+автора	O
+Faithless	B-SINGER
+песню	O
+The	B-SONG
+Winner	I-SONG
+Takes	I-SONG
+It	I-SONG
+All	I-SONG
+
+включи	O
+автора	O
+каденз	B-SINGER
+
+давай	O
+селис	B-SONG
+
+воспроизведи	O
+изгоняющ	B-FILM
+дьявола	I-FILM
+
+вруби	O
+гоки	B-SINGER
+парк	I-SINGER
+
+давай	O
+включи	O
+певца	O
+уэар	B-SINGER
+
+вруби	O
+берлиоз	B-COMPOSER
+
+зажги	O
+листа	B-COMPOSER
+
+давай	O
+включи	O
+
+спой	O
+Nitberg	B-SINGER
+
+играй	O
+левш	B-BOOK
+
+давай	O
+включи	O
+карт	B-FILM
+
+воспроизводим	O
+песни	B-SONG
+
+давай	O
+послушаем	O
+хуго	B-COMPOSER
+
+играй	O
+композитора	O
+бизе	B-COMPOSER
+песню	O
+Blinded	B-SONG
+By	I-SONG
+The	I-SONG
+Light	I-SONG
+
+проиграй	O
+плазмой	B-SINGER
+
+давай	O
+пароле	B-SONG
+
+расскажи	O
+йангом	B-SINGER
+джизи	I-SINGER
+
+включи	O
+
+проиграй	O
+ерш	B-SINGER
+
+спой	O
+скарлатти	B-COMPOSER
+
+давай	O
+послушаем	O
+Besame	B-SONG
+Mucho	I-SONG
+
+давай	O
+послушаем	O
+салямэ	B-SONG
+
+вруби	O
+луиш	B-SINGER
+камоэнс	I-SINGER
+
+спой	O
+песню	O
+A	B-SONG
+Toi	I-SONG
+автора	O
+джеральд	B-SINGER
+мернейн	I-SINGER
+
+вруби	O
+произведение	O
+бездельник	B-BOOK
+
+вруби	O
+листа	B-COMPOSER
+
+воспроизведи	O
+холодн	B-BOOK
+дом	I-BOOK
+
+воспроизведи	O
+европейск	B-BOOK
+сказка	I-BOOK
+
+давай	O
+включи	O
+пеппэрз	B-SINGER
+
+воспроизведи	O
+
+расскажи	O
+дорожку	O
+вуду	B-SONG
+чайлд	I-SONG
+
+зажги	O
+дэвид	B-SINGER
+митчел	I-SINGER
+
+вруби	O
+автора	O
+гозом	B-SINGER
+песню	O
+далаила	B-SONG
+
+расскажи	O
+хербьёрг	B-SINGER
+
+воспроизведи	O
+фаир	B-SINGER
+инсайд	I-SINGER
+
+включи	O
+девятнадцать	B-SINGER
+восемьдесят	I-SINGER
+четыре	I-SINGER
+
+вруби	O
+чэинз	B-SINGER
+
+давай	O
+ниэ	B-SONG
+
+проиграй	O
+сильви	B-SINGER
+плат	I-SINGER
+
+воспроизводим	O
+лумен	B-SINGER
+
+воспроизводим	O
+этьен	B-SINGER
+херден	I-SINGER
+
+давай	O
+послушаем	O
+автора	O
+Jimmy	B-SINGER
+Eat	I-SINGER
+World	I-SINGER
+
+играй	O
+
+давай	O
+включи	O
+георг	B-COMPOSER
+гендел	I-COMPOSER
+
+пой	O
+влюблённ	B-BOOK
+
+давай	O
+включи	O
+композитора	O
+людвиг	B-COMPOSER
+ван	I-COMPOSER
+бетховен	I-COMPOSER
+
+включи	O
+римск	B-COMPOSER
+корсаков	I-COMPOSER
+
+зажги	O
+никола	B-SINGER
+носков	I-SINGER
+
+давай	O
+включи	O
+леош	B-COMPOSER
+яначек	I-COMPOSER
+
+проиграй	O
+звездны	B-FILM
+войн	I-FILM
+три	I-FILM
+
+давай	O
+послушаем	O
+толстого	B-SINGER
+
+давай	O
+включи	O
+автора	O
+kino	B-SINGER
+песню	O
+дель	B-SONG
+ква	I-SONG
+
+расскажи	O
+песню	O
+Wonderful	B-SONG
+Life	I-SONG
+из	O
+вспомнит	B-FILM
+всё	I-FILM
+
+включи	O
+ревизор	B-BOOK
+
+вруби	O
+схватк	B-FILM
+
+включи	O
+Lifehouse	B-SINGER
+
+зажги	O
+джей	B-FILM
+и	I-FILM
+молчалив	I-FILM
+боб	I-FILM
+наносят	I-FILM
+ответн	I-FILM
+удар	I-FILM
+
+давай	O
+послушаем	O
+сне	B-BOOK
+
+давай	O
+включи	O
+шуберт	B-COMPOSER
+
+проиграй	O
+песня	B-SONG
+
+воспроизведи	O
+Romowe	B-SINGER
+Rikoito	I-SINGER
+
+пой	O
+Plain	B-SINGER
+White	I-SINGER
+Ts	I-SINGER
+
+спой	O
+песню	O
+белы	B-SONG
+роз	I-SONG
+автора	O
+кат	B-SINGER
+эн	I-SINGER
+ран	I-SINGER
+
+расскажи	O
+Citadel	B-SINGER
+
+спой	O
+никола	B-COMPOSER
+карлович	I-COMPOSER
+метнер	I-COMPOSER
+
+пой	O
+дэдпул	B-FILM
+
+проиграй	O
+шэу	B-SINGER
+ми	I-SINGER
+а	I-SINGER
+
+давай	O
+послушаем	O
+автора	O
+бразерз	B-SINGER
+песню	O
+стамблин	B-SONG
+ин	I-SONG
+
+давай	O
+послушаем	O
+дюна	B-SINGER
+
+спой	O
+автора	O
+Keane	B-SINGER
+песню	O
+тэгезэр	B-SONG
+
+воспроизведи	O
+песни	O
+из	O
+фильма	O
+законопослушн	B-FILM
+гражданин	I-FILM
+
+давай	O
+включи	O
+рамо	B-COMPOSER
+
+спой	O
+Barto	B-SINGER
+
+давай	O
+гроссман	B-SINGER
+
+играй	O
+Sweet	B-SONG
+Lorraine	I-SONG
+
+расскажи	O
+лешик	B-BOOK
+на	I-BOOK
+острове	I-BOOK
+страха	I-BOOK
+
+воспроизводим	O
+юнайтед	B-SINGER
+
+спой	O
+парнях	B-FILM
+два	I-FILM
+
+давай	O
+послушаем	O
+встреч	B-SINGER
+рыб	I-SINGER
+
+давай	O
+включи	O
+фильм	O
+начале	B-FILM
+
+спой	O
+чили	B-SINGER
+
+давай	O
+сметаной	B-COMPOSER
+
+воспроизводим	O
+старый	B-SONG
+
+расскажи	O
+песню	O
+селос	B-SONG
+автора	O
+Atmoravi	B-SINGER
+
+проиграй	O
+послах	B-BOOK
+
+вруби	O
+D	B-SONG
+Allemagne	I-SONG
+
+воспроизводим	O
+клэш	B-SINGER
+
+давай	O
+желт	B-BOOK
+чемоданчик	I-BOOK
+
+включи	O
+бруноу	B-SINGER
+
+расскажи	O
+жизнь	B-BOOK
+
+включи	O
+втор	B-FILM
+
+вруби	O
+песню	O
+пэрке	B-SONG
+автора	O
+Everything	B-SINGER
+Is	I-SINGER
+Made	I-SINGER
+In	I-SINGER
+China	I-SINGER
+
+включи	O
+побежденны	B-BOOK
+
+давай	O
+из	O
+сделан	B-FILM
+в	I-FILM
+америке	I-FILM
+песню	O
+я	B-SONG
+знаю	I-SONG
+теперь	I-SONG
+
+включи	O
+мясковск	B-COMPOSER
+
+воспроизведи	O
+эдвард	B-COMPOSER
+хагеруп	I-COMPOSER
+григ	I-COMPOSER
+
+проиграй	O
+тошнот	B-BOOK
+
+воспроизводим	O
+цирил	B-SINGER
+космач	I-SINGER
+
+проиграй	O
+конфесса	B-SONG
+
+давай	O
+книгу	O
+клоп	B-BOOK
+
+давай	O
+певца	O
+калугин	B-SINGER
+
+воспроизводим	O
+джэкузи	B-SINGER
+
+воспроизводим	O
+Dasaev	B-SINGER
+
+давай	O
+афоне	B-FILM
+
+проиграй	O
+бортнянск	B-COMPOSER
+
+зажги	O
+хребт	B-BOOK
+безумия	I-BOOK
+
+спой	O
+разговор	B-BOOK
+город	I-BOOK
+
+пой	O
+брусэль	B-SONG
+
+зажги	O
+My	B-SONG
+Immortal	I-SONG
+
+давай	O
+послушаем	O
+автора	O
+мора	B-SINGER
+песню	O
+фээри	B-SONG
+
+играй	O
+Mrs	B-SONG
+Vanderbilt	I-SONG
+
+вруби	O
+чтец	B-BOOK
+
+включи	O
+автора	O
+Anna	B-SINGER
+Netrebko	I-SINGER
+песню	O
+топ	B-SONG
+топ	I-SONG
+
+давай	O
+композитора	O
+жорж	B-COMPOSER
+бизе	I-COMPOSER
+песню	O
+ю	B-SONG
+
+включи	O
+франсуаз	B-SINGER
+саган	I-SINGER
+
+расскажи	O
+главное	B-SONG
+ребята	I-SONG
+сердцем	I-SONG
+не	I-SONG
+стареть	I-SONG
+
+спой	O
+певца	O
+сэлом	B-SINGER
+
+давай	O
+нежн	B-SINGER
+это	I-SINGER
+
+зажги	O
+песню	O
+Black	B-SONG
+Dog	I-SONG
+автора	O
+мери	B-SINGER
+шелли	I-SINGER
+
+вруби	O
+малым	B-SINGER
+
+давай	O
+моне	B-SINGER
+
+воспроизведи	O
+вселенн	B-FILM
+стивен	I-FILM
+хокинг	I-FILM
+
+расскажи	O
+онеггер	B-COMPOSER
+
+давай	O
+пароль	B-SONG
+
+зажги	O
+чудес	B-BOOK
+в	I-BOOK
+гусляре	I-BOOK
+
+давай	O
+послушаем	O
+Hey	B-SONG
+You	I-SONG
+
+пой	O
+Bad	B-SINGER
+Religion	I-SINGER
+
+расскажи	O
+автора	O
+мэй	B-SINGER
+синклер	I-SINGER
+песню	O
+лучиа	B-SONG
+
+проиграй	O
+александр	B-COMPOSER
+николаевич	I-COMPOSER
+скрябин	I-COMPOSER
+
+воспроизведи	O
+A	B-SONG
+Chaque	I-SONG
+Fois	I-SONG
+JY	I-SONG
+Crois	I-SONG
+
+расскажи	O
+
+давай	O
+включи	O
+Pinkshinyultrablast	B-SINGER
+
+вруби	O
+автора	O
+белы	B-SINGER
+флаг	I-SINGER
+зажигай	I-SINGER
+медленно	I-SINGER
+песню	O
+идет	B-SONG
+
+зажги	O
+романом	B-SINGER
+рэйн	I-SINGER
+
+вруби	O
+Michelle	B-SONG
+
+расскажи	O
+мети	B-SINGER
+
+зажги	O
+автора	O
+маргарет	B-SINGER
+мадзантини	I-SINGER
+песню	O
+Manchester	B-SONG
+Et	I-SONG
+Liverpool	I-SONG
+
+давай	O
+звезда	B-SONG
+
+проиграй	O
+гадк	B-BOOK
+утёнок	I-BOOK
+
+давай	O
+послушаем	O
+джем	B-SINGER
+
+пой	O
+ветер	B-SONG
+
+давай	O
+включи	O
+каттер	B-BOOK
+и	I-BOOK
+боун	I-BOOK
+
+играй	O
+автора	O
+собак	B-SINGER
+табака	I-SINGER
+песню	O
+Santa	B-SONG
+Lucia	I-SONG
+
+давай	O
+послушаем	O
+юнкера	B-BOOK
+
+проиграй	O
+генрих	B-COMPOSER
+шютц	I-COMPOSER
+
+играй	O
+Noize	B-SINGER
+MC	I-SINGER
+
+проиграй	O
+царск	B-BOOK
+безумец	I-BOOK
+
+включи	O
+феличит	B-SONG
+
+воспроизведи	O
+красн	B-BOOK
+шапочк	I-BOOK
+
+зажги	O
+шенберг	B-COMPOSER
+
+пой	O
+автора	O
+баланс	B-SINGER
+
+давай	O
+послушаем	O
+александр	B-SINGER
+грин	I-SINGER
+
+расскажи	O
+кровосток	B-SINGER
+
+зажги	O
+фор	B-SONG
+насинг	I-SONG
+
+воспроизводим	O
+мой	B-SONG
+
+пой	O
+алсу	B-SINGER
+
+включи	O
+автора	O
+дэн	B-SINGER
+песню	O
+шодэм	B-SONG
+
+расскажи	O
+вдали	B-BOOK
+от	I-BOOK
+обезумевш	I-BOOK
+толп	I-BOOK
+
+давай	O
+автора	O
+ночн	B-SINGER
+грузчик	I-SINGER
+песню	O
+Alejandro	B-SONG
+
+вруби	O
+автора	O
+лунофоби	B-SINGER
+песню	O
+озера	B-SONG
+синие	I-SONG
+
+воспроизведи	O
+пенивайз	B-SINGER
+
+включи	O
+человек	B-FILM
+паук	I-FILM
+возвращени	I-FILM
+домой	I-FILM
+
+расскажи	O
+воскресени	B-SINGER
+
+давай	O
+послушаем	O
+Sara	B-SONG
+Perche	I-SONG
+Ti	I-SONG
+Amo	I-SONG
+
+проиграй	O
+йу	B-SONG
+эва	I-SONG
+
+давай	O
+син	B-SINGER
+лизи	I-SINGER
+
+расскажи	O
+подземел	B-BOOK
+
+расскажи	O
+ты	B-SONG
+у	I-SONG
+меня	I-SONG
+одна	I-SONG
+
+воспроизведи	O
+гендел	B-COMPOSER
+
+вруби	O
+Jive	B-SONG
+Talkin	I-SONG
+
+давай	O
+включи	O
+генрих	B-BOOK
+фон	I-BOOK
+офтердинген	I-BOOK
+
+воспроизведи	O
+Drake	B-SINGER
+
+давай	O
+включи	O
+Justice	B-SINGER
+
+играй	O
+воскресени	B-SINGER
+
+пой	O
+бриттен	B-COMPOSER
+
+играй	O
+прибыти	B-FILM
+
+воспроизведи	O
+вьен	B-SONG
+
+давай	O
+включи	O
+эв	B-SINGER
+
+давай	O
+включи	O
+анна	B-SINGER
+
+давай	O
+автора	O
+люди	B-SINGER
+осени	I-SINGER
+
+давай	O
+послушаем	O
+царств	B-FILM
+небесно	I-FILM
+
+пой	O
+бото	B-SINGER
+штраус	I-SINGER
+
+играй	O
+произведение	O
+подмосковны	B-SONG
+вечер	I-SONG
+
+включи	O
+человек	B-SONG
+и	I-SONG
+кошк	I-SONG
+
+проиграй	O
+Rita	B-SINGER
+Ora	I-SINGER
+
+давай	O
+бах	B-COMPOSER
+
+пой	O
+фёдоров	B-SINGER
+
+зажги	O
+серова	B-COMPOSER
+
+пой	O
+
+играй	O
+певца	O
+александр	B-SINGER
+градск	I-SINGER
+
+зажги	O
+японск	B-BOOK
+сказка	I-BOOK
+
+зажги	O
+из	O
+бессонниц	B-FILM
+песню	O
+эха	B-SONG
+любви	I-SONG
+
+проиграй	O
+автора	O
+Twista	B-SINGER
+песню	O
+ле	B-SONG
+вальс	I-SONG
+
+играй	O
+произведение	O
+мо	B-SONG
+
+играй	O
+никонов	B-SINGER
+
+зажги	O
+Childish	B-SINGER
+Gambino	I-SINGER
+
+включи	O
+ноган	B-SINGER
+
+спой	O
+про	B-BOOK
+богатырск	I-BOOK
+сила	I-BOOK
+и	I-BOOK
+доблест	I-BOOK
+
+воспроизводим	O
+Non	B-SONG
+Je	I-SONG
+Ne	I-SONG
+Regrette	I-SONG
+Rien	I-SONG
+
+пой	O
+поворота	B-SONG
+
+воспроизведи	O
+фэислэс	B-SINGER
+
+спой	O
+рэгтайм	B-BOOK
+
+давай	O
+Mutter	B-SONG
+
+играй	O
+эид	B-SINGER
+
+пой	O
+произведение	O
+Santa	B-SONG
+Lucia	I-SONG
+
+спой	O
+жё	B-SONG
+шант	I-SONG
+
+играй	O
+мирослав	B-SINGER
+крлеж	I-SINGER
+
+играй	O
+альбер	B-SINGER
+коэн	I-SINGER
+
+воспроизведи	O
+майор	B-FILM
+пэйн	I-FILM
+
+включи	O
+джеральд	B-SINGER
+мернейн	I-SINGER
+
+расскажи	O
+аквамен	B-FILM
+
+воспроизведи	O
+певца	O
+курёхин	B-SINGER
+
+проиграй	O
+африканск	B-BOOK
+мальчик	I-BOOK
+
+пой	O
+эмбэдекстрас	B-SINGER
+
+проиграй	O
+волшебн	B-FILM
+страна	I-FILM
+
+играй	O
+автора	O
+гильдебранд	B-SINGER
+песню	O
+просвистела	B-SONG
+
+зажги	O
+убить	B-FILM
+билл	I-FILM
+
+вруби	O
+крестик	B-SONG
+нолик	I-SONG
+
+вруби	O
+феликс	B-COMPOSER
+мендельсон	I-COMPOSER
+
+давай	O
+включи	O
+странны	B-SINGER
+игры	I-SINGER
+
+играй	O
+гваноу	B-SINGER
+
+воспроизведи	O
+стоянк	B-BOOK
+человека	I-BOOK
+
+включи	O
+либерта	B-SONG
+
+воспроизводим	O
+чулк	B-BOOK
+
+воспроизведи	O
+песню	O
+July	B-SONG
+Morning	I-SONG
+
+включи	O
+певца	O
+мэса	B-SINGER
+
+пой	O
+хатико	B-FILM
+верн	I-FILM
+друг	I-FILM
+
+воспроизводим	O
+
+включи	O
+анн	B-SINGER
+нетребк	I-SINGER
+
+пой	O
+высоцк	B-SINGER
+
+расскажи	O
+певца	O
+стрейтс	B-SINGER
+
+давай	O
+включи	O
+произведение	O
+бердж	B-BOOK
+кристин	I-BOOK
+
+включи	O
+джеин	B-SINGER
+эйр	I-SINGER
+
+давай	O
+льюис	B-SINGER
+кэррол	I-SINGER
+
+давай	O
+включи	O
+гудзонск	B-FILM
+ястреб	I-FILM
+
+спой	O
+Megadeth	B-SINGER
+
+давай	O
+олег	B-SINGER
+медведев	I-SINGER
+
+давай	O
+Iron	B-SINGER
+Maiden	I-SINGER
+
+проиграй	O
+Kartikeya	B-SINGER
+
+играй	O
+певца	O
+Klever	B-SINGER
+
+давай	O
+автора	O
+иван	B-SINGER
+гончаров	I-SINGER
+
+давай	O
+включи	O
+песню	O
+ун	B-SONG
+ви	I-SONG
+дамур	I-SONG
+автора	O
+Lauryn	B-SINGER
+Hill	I-SINGER
+
+пой	O
+композитора	O
+пуччини	B-COMPOSER
+песню	O
+фёй	B-SONG
+морт	I-SONG
+
+расскажи	O
+Ne	B-SONG
+Me	I-SONG
+Quitte	I-SONG
+Pas	I-SONG
+
+воспроизводим	O
+ихь	B-SONG
+виль	I-SONG
+
+давай	O
+ночах	B-FILM
+
+воспроизводим	O
+Moremoney	B-SINGER
+
+играй	O
+мёрт	B-SONG
+
+давай	O
+включи	O
+заговор	B-BOOK
+против	I-BOOK
+америки	I-BOOK
+
+зажги	O
+песни	O
+из	O
+фильма	O
+быстр	B-FILM
+и	I-FILM
+мёртв	I-FILM
+
+расскажи	O
+автора	O
+кровосток	B-SINGER
+песню	O
+дэ	B-SONG
+альмань	I-SONG
+
+давай	O
+автора	O
+I	B-SINGER
+Am	I-SINGER
+Waiting	I-SINGER
+For	I-SINGER
+You	I-SINGER
+Last	I-SINGER
+Summer	I-SINGER
+песню	O
+южной	B-SONG
+
+пой	O
+
+спой	O
+песню	O
+каран	B-SONG
+анс	I-SONG
+автора	O
+ярослав	B-SINGER
+гашек	I-SINGER
+
+давай	O
+логан	B-FILM
+
+давай	O
+послушаем	O
+певца	O
+Anberlin	B-SINGER
+
+пой	O
+памелу	B-BOOK
+
+проиграй	O
+рэд	B-SINGER
+
+пой	O
+модест	B-COMPOSER
+мусоргск	I-COMPOSER
+
+пой	O
+композитора	O
+люлли	B-COMPOSER
+песню	O
+я	B-SONG
+не	I-SONG
+знаю	I-SONG
+
+воспроизводим	O
+скрилэкс	B-SINGER
+
+играй	O
+марш	B-BOOK
+радецк	I-BOOK
+
+проиграй	O
+жаном	B-SINGER
+поль	I-SINGER
+
+давай	O
+моего	B-BOOK
+
+давай	O
+включи	O
+джеймс	B-SINGER
+стивенс	I-SINGER
+
+зажги	O
+автора	O
+центра	B-SINGER
+песню	O
+форэва	B-SONG
+
+играй	O
+кальман	B-COMPOSER
+
+воспроизводим	O
+чародеи	B-FILM
+
+включи	O
+лорд	B-SINGER
+
+воспроизводим	O
+Tico	B-SONG
+Tico	I-SONG
+
+вруби	O
+дэвид	B-SINGER
+дибдин	I-SINGER
+
+расскажи	O
+книгу	O
+дики	B-BOOK
+детектив	I-BOOK
+
+зажги	O
+песню	O
+я	B-SONG
+получил	I-SONG
+эту	I-SONG
+роль	I-SONG
+композитора	O
+бриттен	B-COMPOSER
+
+зажги	O
+твисту	B-SINGER
+
+давай	O
+включи	O
+прощаться	B-SONG
+рано	I-SONG
+
+включи	O
+автора	O
+василис	B-SINGER
+василикос	I-SINGER
+песню	O
+кен	B-SONG
+ай	I-SONG
+
+зажги	O
+песню	O
+Les	B-SONG
+Passants	I-SONG
+композитора	O
+орфа	B-COMPOSER
+
+давай	O
+включи	O
+братья	B-FILM
+
+зажги	O
+исмаил	B-SINGER
+кадар	I-SINGER
+
+пой	O
+стреинджлав	B-SONG
+
+зажги	O
+песни	O
+из	O
+фильма	O
+куда	B-FILM
+приводят	I-FILM
+мечты	I-FILM
+
+играй	O
+незнайк	B-BOOK
+
+зажги	O
+композитора	O
+песню	O
+Santa	B-SONG
+Maria	I-SONG
+Del	I-SONG
+Buen	I-SONG
+Ayre	I-SONG
+
+воспроизводим	O
+The	B-SINGER
+Krolls	I-SINGER
+
+давай	O
+композитора	O
+малер	B-COMPOSER
+
+пой	O
+шокран	B-SINGER
+
+давай	O
+включи	O
+из	O
+очень	B-FILM
+страшно	I-FILM
+кино	I-FILM
+песню	O
+иль	B-SONG
+сэм	I-SONG
+
+воспроизведи	O
+ванюшк	B-BOOK
+и	I-BOOK
+царевн	I-BOOK
+
+пой	O
+ничь	B-SINGER
+
+включи	O
+мийо	B-COMPOSER
+
+включи	O
+йорселф	B-SONG
+
+воспроизведи	O
+майя	B-SINGER
+
+вруби	O
+композитора	O
+дариюс	B-COMPOSER
+мийо	I-COMPOSER
+песню	O
+селос	B-SONG
+
+давай	O
+включи	O
+композитора	O
+мусоргск	B-COMPOSER
+
+спой	O
+алисой	B-SINGER
+
+пой	O
+орф	B-COMPOSER
+
+пой	O
+автора	O
+растеряев	B-SINGER
+
+пой	O
+семьянин	B-FILM
+
+спой	O
+Uniquetunes	B-SINGER
+
+играй	O
+пуль	B-FILM
+
+воспроизведи	O
+валерой	B-SINGER
+
+воспроизводим	O
+смок	B-SINGER
+мо	I-SINGER
+
+вруби	O
+дня	B-BOOK
+
+спой	O
+Perimeter	B-SINGER
+
+зажги	O
+наследия	B-SINGER
+вагантов	I-SINGER
+
+расскажи	O
+майор	B-FILM
+пэйн	I-FILM
+
+воспроизведи	O
+тико	B-SONG
+тико	I-SONG
+
+вруби	O
+кикбоксер	B-FILM
+
+вруби	O
+песню	O
+хэлилуйэ	B-SONG
+композитора	O
+шенберг	B-COMPOSER
+
+играй	O
+броукэн	B-SINGER
+
+зажги	O
+Bajinda	B-SINGER
+Behind	I-SINGER
+The	I-SINGER
+Enemy	I-SINGER
+Lines	I-SINGER
+
+давай	O
+послушаем	O
+помпеей	B-SINGER
+
+включи	O
+Insatiable	B-SONG
+
+включи	O
+Nostalgie	B-SONG
+
+давай	O
+лео	B-COMPOSER
+делиб	I-COMPOSER
+
+проиграй	O
+композитора	O
+морис	B-COMPOSER
+равел	I-COMPOSER
+
+давай	O
+автора	O
+комитет	B-SINGER
+охраны	I-SINGER
+тепла	I-SINGER
+песню	O
+нау	B-SONG
+
+пой	O
+песню	O
+буэм	B-SONG
+
+расскажи	O
+путешестви	B-BOOK
+гулливер	I-BOOK
+
+давай	O
+включи	O
+Mon	B-SONG
+Frere	I-SONG
+Le	I-SONG
+Soleil	I-SONG
+
+проиграй	O
+джем	B-SINGER
+
+давай	O
+автора	O
+Anthrax	B-SINGER
+песню	O
+трасс	B-SONG
+е	I-SONG
+девяносто	I-SONG
+пять	I-SONG
+
+зажги	O
+Ladytron	B-SINGER
+
+зажги	O
+оксимирон	B-SINGER
+
+спой	O
+автора	O
+джон	B-SINGER
+песню	O
+Rosenrot	B-SONG
+
+играй	O
+годовщин	B-BOOK
+
+расскажи	O
+александр	B-SINGER
+степанов	I-SINGER
+
+спой	O
+генрих	B-COMPOSER
+шютц	I-COMPOSER
+
+давай	O
+джоу	B-SINGER
+
+пой	O
+Felicita	B-SONG
+
+включи	O
+композитора	O
+корелли	B-COMPOSER
+
+включи	O
+рождественск	B-SONG
+романс	I-SONG
+
+расскажи	O
+песню	O
+уайт	B-SONG
+из	O
+американск	B-FILM
+пирог	I-FILM
+
+включи	O
+габриэл	B-SINGER
+даннунци	I-SINGER
+
+включи	O
+автора	O
+солерэйн	B-SINGER
+песню	O
+Nie	B-SONG
+Spoczniemy	I-SONG
+
+давай	O
+включи	O
+автора	O
+зигфрид	B-SINGER
+ленц	I-SINGER
+песню	O
+сторие	B-SONG
+
+вруби	O
+нё	B-SONG
+
+давай	O
+послушаем	O
+песни	O
+из	O
+фильма	O
+взвод	B-FILM
+
+давай	O
+послушаем	O
+антонио	B-COMPOSER
+вивальди	I-COMPOSER
+
+воспроизведи	O
+уилки	B-SINGER
+
+воспроизводим	O
+автора	O
+пианочоклэт	B-SINGER
+песню	O
+
+включи	O
+
+давай	O
+послушаем	O
+Seduceme	B-SONG
+
+воспроизводим	O
+брамс	B-COMPOSER
+
+давай	O
+композитора	O
+гайдн	B-COMPOSER
+песню	O
+бэсаме	B-SONG
+
+воспроизводим	O
+автора	O
+иван	B-SINGER
+вазов	I-SINGER
+песню	O
+Addio	B-SONG
+
+давай	O
+включи	O
+Brad	B-SINGER
+Paisley	I-SINGER
+
+проиграй	O
+ногган	B-SINGER
+
+воспроизведи	O
+суит	B-SONG
+
+воспроизведи	O
+отар	B-SINGER
+чиладз	I-SINGER
+
+зажги	O
+летнего	B-SONG
+вечер	I-SONG
+
+давай	O
+послушаем	O
+аназэр	B-SINGER
+
+расскажи	O
+дрейк	B-SINGER
+
+воспроизведи	O
+якоб	B-BOOK
+лжец	I-BOOK
+
+расскажи	O
+автора	O
+Fatal	B-SINGER
+песню	O
+Mother	B-SONG
+Love	I-SONG
+
+вруби	O
+карл	B-SINGER
+леви	I-SINGER
+
+давай	O
+гектор	B-COMPOSER
+берлиоз	I-COMPOSER
+
+пой	O
+из	O
+после	B-FILM
+прочтения	I-FILM
+сжечь	I-FILM
+песню	O
+Une	B-SONG
+Femme	I-SONG
+A	I-SONG
+Ans	I-SONG
+
+проиграй	O
+LEte	B-SONG
+Indien	I-SONG
+
+вруби	O
+берга	B-COMPOSER
+
+пой	O
+культур	B-SINGER
+курения	I-SINGER
+
+пой	O
+песню	O
+Knowing	B-SONG
+Me	I-SONG
+Knowing	I-SONG
+You	I-SONG
+композитора	O
+вагнер	B-COMPOSER
+
+зажги	O
+нож	B-SINGER
+фюр	I-SINGER
+
+давай	O
+послушаем	O
+американск	B-BOOK
+психопат	I-BOOK
+
+включи	O
+мервент	B-SINGER
+
+проиграй	O
+дамор	B-SONG
+
+давай	O
+песни	O
+из	O
+фильма	O
+мстители	B-FILM
+
+давай	O
+включи	O
+Viens	B-SONG
+Viens	I-SONG
+
+воспроизведи	O
+Ginuwine	B-SINGER
+
+вруби	O
+тесс	B-SINGER
+лоо	I-SINGER
+
+играй	O
+фильм	O
+остров	B-FILM
+
+играй	O
+никола	B-SINGER
+кун	I-SINGER
+
+спой	O
+колдпле	B-SINGER
+
+пой	O
+кэдэнз	B-SINGER
+
+вруби	O
+юниктьюнз	B-SINGER
+
+воспроизводим	O
+Knockin	B-SONG
+On	I-SONG
+Heavens	I-SONG
+Door	I-SONG
+
+воспроизведи	O
+фильм	O
+экипаж	B-FILM
+
+вруби	O
+жака	B-COMPOSER
+
+включи	O
+Reflex	B-SINGER
+
+включи	O
+бенджамин	B-COMPOSER
+бриттен	I-COMPOSER
+
+проиграй	O
+боиз	B-SINGER
+
+играй	O
+композитора	O
+онеггер	B-COMPOSER
+песню	O
+How	B-SONG
+Deep	I-SONG
+Is	I-SONG
+Your	I-SONG
+Love	I-SONG
+
+спой	O
+мне	B-FILM
+бы	I-FILM
+в	I-FILM
+небо	I-FILM
+
+зажги	O
+маска	B-FILM
+зорро	I-FILM
+
+включи	O
+автора	O
+твердь	B-SINGER
+
+расскажи	O
+джеймс	B-SINGER
+стивенс	I-SINGER
+
+зажги	O
+посторонн	B-BOOK
+
+воспроизводим	O
+про	B-BOOK
+попе	I-BOOK
+
+пой	O
+поле	B-FILM
+секретн	I-FILM
+материальчик	I-FILM
+
+зажги	O
+произведение	O
+бред	B-BOOK
+о	I-BOOK
+
+воспроизводим	O
+лихолесь	B-SINGER
+
+играй	O
+Red	B-SINGER
+Elvises	I-SINGER
+
+расскажи	O
+фарго	B-FILM
+
+давай	O
+послушаем	O
+певца	O
+джуэл	B-SINGER
+
+давай	O
+включи	O
+гречанинов	B-COMPOSER
+
+воспроизведи	O
+автора	O
+Moon	B-SINGER
+Far	I-SINGER
+Away	I-SINGER
+песню	O
+стормбринар	B-SONG
+
+включи	O
+винченцо	B-COMPOSER
+беллини	I-COMPOSER
+
+воспроизведи	O
+чума	B-BOOK
+
+вруби	O
+орунок	B-BOOK
+
+включи	O
+из	O
+интерстеллар	B-FILM
+песню	O
+тико	B-SONG
+тико	I-SONG
+
+давай	O
+включи	O
+прокофьев	B-COMPOSER
+
+воспроизводим	O
+Billie	B-SINGER
+Holiday	I-SINGER
+
+давай	O
+послушаем	O
+ассаи	B-SINGER
+
+давай	O
+включи	O
+ники	B-SINGER
+минаж	I-SINGER
+
+зажги	O
+бердмен	B-FILM
+
+проиграй	O
+абстракт	B-SINGER
+спирит	I-SINGER
+
+давай	O
+дочь	B-BOOK
+
+проиграй	O
+произведение	O
+вумэн	B-SONG
+
+проиграй	O
+messer	B-SINGER
+fur	I-SINGER
+frau	I-SINGER
+muller	I-SINGER
+
+вруби	O
+кажэ	B-SINGER
+обойм	I-SINGER
+
+проиграй	O
+тринадцат	B-FILM
+район	I-FILM
+
+воспроизводим	O
+дьявол	B-BOOK
+и	I-BOOK
+сеньорит	I-BOOK
+прим	I-BOOK
+
+зажги	O
+полицейск	B-FILM
+из	I-FILM
+беверли	I-FILM
+хиллз	I-FILM
+
+давай	O
+альбом	B-BOOK
+крёстного	I-BOOK
+
+давай	O
+послушаем	O
+карл	B-SINGER
+кассол	I-SINGER
+
+играй	O
+франц	B-COMPOSER
+шуберт	I-COMPOSER
+
+включи	O
+бездельник	B-BOOK
+
+спой	O
+родион	B-COMPOSER
+константинович	I-COMPOSER
+щедрин	I-COMPOSER
+
+зажги	O
+кипелов	B-SINGER
+
+спой	O
+тринадцат	B-FILM
+воин	I-FILM
+
+пой	O
+царств	B-FILM
+тьмы	I-FILM
+
+воспроизведи	O
+оффенбах	B-COMPOSER
+
+давай	O
+включи	O
+песню	O
+Comme	B-SONG
+Ils	I-SONG
+Disent	I-SONG
+из	O
+смерть	B-FILM
+ей	I-FILM
+к	I-FILM
+лицу	I-FILM
+
+играй	O
+речн	B-BOOK
+заводь	I-BOOK
+
+расскажи	O
+автора	O
+кит	B-SINGER
+ай	I-SINGER
+песню	O
+El	B-SONG
+Hombre	I-SONG
+Perfecto	I-SONG
+
+играй	O
+композитора	O
+морис	B-COMPOSER
+равел	I-COMPOSER
+
+играй	O
+композитора	O
+жака	B-COMPOSER
+песню	O
+Wicked	B-SONG
+Game	I-SONG
+
+зажги	O
+Ich	B-SONG
+Will	I-SONG
+
+зажги	O
+Wasted	B-SONG
+Sunsets	I-SONG
+One	I-SONG
+Two	I-SONG
+Minute	I-SONG
+
+давай	O
+в	B-BOOK
+ожидани	I-BOOK
+тьмы	I-BOOK
+
+воспроизводим	O
+креизи	B-SINGER
+таун	I-SINGER
+
+давай	O
+включи	O
+эвэланчиз	B-SINGER
+
+давай	O
+послушаем	O
+бонч	B-SINGER
+бру	I-SINGER
+бонч	I-SINGER
+
+зажги	O
+фильм	O
+астерикс	B-FILM
+и	I-FILM
+обеликс	I-FILM
+клеопатр	I-FILM
+
+воспроизведи	O
+рокки	B-FILM
+три	I-FILM
+
+пой	O
+евген	B-SINGER
+гинзбург	I-SINGER
+
+пой	O
+песню	O
+Lucy	B-SONG
+In	I-SONG
+The	I-SONG
+Sky	I-SONG
+With	I-SONG
+Diamonds	I-SONG
+из	O
+гангстера	B-FILM
+
+спой	O
+певца	O
+йозеф	B-SINGER
+шкворецк	I-SINGER
+
+проиграй	O
+композитора	O
+россини	B-COMPOSER
+песню	O
+In	B-SONG
+My	I-SONG
+Life	I-SONG
+
+давай	O
+послушаем	O
+автора	O
+Flawless	B-SINGER
+Victory	I-SINGER
+песню	O
+The	B-SONG
+Wind	I-SONG
+Cries	I-SONG
+Mary	I-SONG
+
+зажги	O
+дмитр	B-COMPOSER
+бортнянск	I-COMPOSER
+
+играй	O
+песню	O
+сталинграда	B-SONG
+автора	O
+нуль	B-SINGER
+
+спой	O
+произведение	O
+Money	B-SONG
+
+включи	O
+людвиг	B-COMPOSER
+ван	I-COMPOSER
+бетховен	I-COMPOSER
+
+давай	O
+децл	B-SINGER
+
+давай	O
+Sviatoslav	B-SINGER
+Richter	I-SINGER
+
+зажги	O
+автора	O
+ирин	B-SINGER
+головкин	I-SINGER
+песню	O
+A	B-SONG
+Toi	I-SONG
+
+играй	O
+Aria	B-SINGER
+
+спой	O
+на	B-BOOK
+земле	I-BOOK
+
+проиграй	O
+сплин	B-SINGER
+
+включи	O
+иоганн	B-COMPOSER
+штраус	I-COMPOSER
+
+спой	O
+теодор	B-SINGER
+фонтан	I-SINGER
+
+давай	O
+зима	B-BOOK
+в	I-BOOK
+простоквашин	I-BOOK
+
+воспроизводим	O
+прулькс	B-SINGER
+
+пой	O
+Helengard	B-SINGER
+
+пой	O
+Maio	B-SINGER
+
+давай	O
+послушаем	O
+слотом	B-SINGER
+
+давай	O
+послушаем	O
+песню	O
+белы	B-SONG
+роз	I-SONG
+
+пой	O
+антон	B-COMPOSER
+рубинштейн	I-COMPOSER
+
+вруби	O
+композитора	O
+рамо	B-COMPOSER
+песню	O
+Les	B-SONG
+Hommes	I-SONG
+Qui	I-SONG
+Passent	I-SONG
+
+расскажи	O
+фадо	B-BOOK
+александрин	I-BOOK
+
+играй	O
+автора	O
+лоренс	B-SINGER
+стерн	I-SINGER
+
+воспроизведи	O
+битлами	B-SINGER
+
+воспроизведи	O
+из	O
+лучш	B-FILM
+стрелок	I-FILM
+песню	O
+Faith	B-SONG
+
+пой	O
+лису	B-BOOK
+
+играй	O
+мёртвы	B-SINGER
+
+проиграй	O
+севастопольск	B-BOOK
+рассказ	I-BOOK
+
+давай	O
+дайэн	B-SINGER
+
+играй	O
+James	B-SINGER
+Vincent	I-SINGER
+McMorrow	I-SINGER
+
+вруби	O
+дримин	B-SONG
+
+воспроизведи	O
+песню	O
+фулз	B-SONG
+автора	O
+Jefferson	B-SINGER
+Airplane	I-SINGER
+
+давай	O
+послушаем	O
+царевн	B-BOOK
+лягушк	I-BOOK
+
+спой	O
+из	O
+уоллстрит	B-FILM
+песню	O
+берега	B-SONG
+
+спой	O
+роад	B-SONG
+джэк	I-SONG
+
+пой	O
+гражданск	B-SINGER
+оборон	I-SINGER
+
+воспроизводим	O
+кэнт	B-SONG
+бай	I-SONG
+
+включи	O
+дрожь	B-FILM
+
+включи	O
+жуками	B-SINGER
+
+воспроизведи	O
+первого	B-FILM
+
+давай	O
+послушаем	O
+сри	B-SINGER
+оу	I-SINGER
+сри	I-SINGER
+
+давай	O
+включи	O
+невм	B-BOOK
+и	I-BOOK
+дискант	I-BOOK
+
+вруби	O
+дьявол	B-FILM
+носит	I-FILM
+прад	I-FILM
+
+играй	O
+ReAnima	B-SINGER
+
+давай	O
+послушаем	O
+Gotye	B-SINGER
+
+расскажи	O
+Survivor	B-SINGER
+
+давай	O
+включи	O
+втор	B-FILM
+
+воспроизводим	O
+саламэ	B-SONG
+
+расскажи	O
+сансет	B-SINGER
+
+вруби	O
+алесю	B-SONG
+
+зажги	O
+произведение	O
+может	B-SONG
+однажды	I-SONG
+
+проиграй	O
+Houston	B-SINGER
+Weve	I-SINGER
+Got	I-SINGER
+Problems	I-SINGER
+
+спой	O
+ларик	B-SINGER
+сурапов	I-SINGER
+
+проиграй	O
+The	B-SONG
+Man	I-SONG
+Who	I-SONG
+Sold	I-SONG
+The	I-SONG
+World	I-SONG
+
+давай	O
+послушаем	O
+вперед	B-FILM
+два	I-FILM
+
+зажги	O
+кафк	B-BOOK
+на	I-BOOK
+пляже	I-BOOK
+
+зажги	O
+Guano	B-SINGER
+Apes	I-SINGER
+
+пой	O
+мне	B-FILM
+бы	I-FILM
+в	I-FILM
+небо	I-FILM
+
+вруби	O
+произведение	O
+музе	B-BOOK
+безоговорочн	I-BOOK
+капитуляции	I-BOOK
+
+пой	O
+франсуаз	B-SINGER
+саган	I-SINGER
+
+воспроизведи	O
+мэри	B-SINGER
+
+пой	O
+вселенн	B-FILM
+стивен	I-FILM
+хокинг	I-FILM
+
+расскажи	O
+мэсачусетс	B-SONG
+
+пой	O
+автора	O
+DoppelgangeR	B-SINGER
+песню	O
+били	B-SONG
+
+спой	O
+песню	O
+шарасан	B-SONG
+автора	O
+борис	B-SINGER
+гребенщиков	I-SINGER
+
+давай	O
+включи	O
+песню	O
+аи	B-SONG
+вонт	I-SONG
+автора	O
+амели	B-SINGER
+на	I-SINGER
+мели	I-SINGER
+
+давай	O
+включи	O
+композитора	O
+жоскен	B-COMPOSER
+депре	I-COMPOSER
+
+спой	O
+мышонок	B-BOOK
+пик	I-BOOK
+
+спой	O
+романс	B-SONG
+
+спой	O
+александрос	B-SINGER
+пападиамантис	I-SINGER
+
+давай	O
+послушаем	O
+песню	O
+Celos	B-SONG
+автора	O
+атакам	B-SINGER
+
+давай	O
+включи	O
+алексе	B-SINGER
+иванов	I-SINGER
+
+зажги	O
+Bugotak	B-SINGER
+
+спой	O
+Ivan	B-SONG
+Boris	I-SONG
+Et	I-SONG
+Moi	I-SONG
+
+воспроизведи	O
+в	B-FILM
+бой	I-FILM
+идут	I-FILM
+одни	I-FILM
+старики	I-FILM
+
+давай	O
+катю	B-SINGER
+
+проиграй	O
+Pink	B-SINGER
+Floyd	I-SINGER
+
+вруби	O
+александр	B-COMPOSER
+скрябин	I-COMPOSER
+
+вруби	O
+лоунли	B-SONG
+
+воспроизведи	O
+эмманюэль	B-SONG
+
+спой	O
+дамоур	B-SONG
+
+пой	O
+Reutoff	B-SINGER
+
+пой	O
+фильм	O
+кокаин	B-FILM
+
+играй	O
+голос	B-BOOK
+предк	I-BOOK
+
+вруби	O
+песни	O
+из	O
+фильма	O
+втор	B-FILM
+
+воспроизводим	O
+фазил	B-SINGER
+искандер	I-SINGER
+
+зажги	O
+а	B-SONG
+ки	I-SONG
+
+вруби	O
+композитора	O
+рамо	B-COMPOSER
+
+спой	O
+Tanha	B-SONG
+Shodam	I-SONG
+El	I-SONG
+Bimbo	I-SONG
+
+проиграй	O
+орчестр	B-SINGER
+
+воспроизводим	O
+автора	O
+спитфаиэр	B-SINGER
+песню	O
+I	B-SONG
+Want	I-SONG
+It	I-SONG
+All	I-SONG
+
+зажги	O
+шугэкалт	B-SINGER
+
+включи	O
+пойманны	B-SINGER
+муравьед	I-SINGER
+
+воспроизводим	O
+линдо	B-SINGER
+
+проиграй	O
+Tenacious	B-SINGER
+D	I-SINGER
+
+давай	O
+из	O
+киндзадза	B-FILM
+песню	O
+наит	B-SONG
+сити	I-SONG
+
+включи	O
+Obsession	B-SONG
+
+воспроизведи	O
+Dénaturé	B-SONG
+
+пой	O
+уор	B-SINGER
+
+воспроизведи	O
+автора	O
+високосн	B-SINGER
+год	I-SINGER
+песню	O
+клен	B-SONG
+ты	I-SONG
+мой	I-SONG
+опавший	I-SONG
+
+давай	O
+Les	B-SONG
+Passants	I-SONG
+
+давай	O
+послушаем	O
+филинз	B-SONG
+
+воспроизведи	O
+генри	B-SINGER
+миллер	I-SINGER
+
+воспроизведи	O
+битв	B-FILM
+за	I-FILM
+севастополь	I-FILM
+
+проиграй	O
+аркону	B-SINGER
+
+давай	O
+включи	O
+там	B-SONG
+
+давай	O
+включи	O
+тва	B-SONG
+
+вруби	O
+Roman	B-SINGER
+Rain	I-SINGER
+
+давай	O
+послушаем	O
+Anthesteria	B-SINGER
+
+давай	O
+включи	O
+композитора	O
+франц	B-COMPOSER
+легар	I-COMPOSER
+песню	O
+паруса	B-SONG
+
+давай	O
+включи	O
+андем	B-SINGER
+
+давай	O
+включи	O
+приют	B-FILM
+
+воспроизведи	O
+донск	B-BOOK
+рассказ	I-BOOK
+
+воспроизводим	O
+ideя	B-SINGER
+fix	I-SINGER
+
+проиграй	O
+Babangida	B-SINGER
+
+проиграй	O
+жорж	B-SINGER
+амаду	I-SINGER
+
+зажги	O
+авессалом	B-BOOK
+авессалом	I-BOOK
+
+воспроизводим	O
+Santa	B-SONG
+Lucia	I-SONG
+
+воспроизведи	O
+
+давай	O
+послушаем	O
+томас	B-SINGER
+кенилли	I-SINGER
+
+включи	O
+владимир	B-SINGER
+арсеньев	I-SINGER
+
+вруби	O
+черн	B-SINGER
+кофе	I-SINGER
+
+воспроизводим	O
+композитора	O
+форе	B-COMPOSER
+песню	O
+Une	B-SONG
+Femme	I-SONG
+A	I-SONG
+Ans	I-SONG
+
+включи	O
+красн	B-SINGER
+дерево	I-SINGER
+
+играй	O
+Chicago	B-SINGER
+
+играй	O
+анже	B-SINGER
+жиперск	I-SINGER
+
+зажги	O
+дэунт	B-SONG
+кам	I-SONG
+изи	I-SONG
+
+давай	O
+послушаем	O
+нам	B-SONG
+с	I-SONG
+тобой	I-SONG
+
+проиграй	O
+
+играй	O
+федор	B-SINGER
+достоевск	I-SINGER
+
+расскажи	O
+Nicole	B-SINGER
+Scherzinger	I-SINGER
+
+проиграй	O
+ниаунеит	B-SINGER
+
+проиграй	O
+дневник	B-FILM
+бриджит	I-FILM
+джонс	I-FILM
+
+расскажи	O
+океан	B-SINGER
+моей	I-SINGER
+надежды	I-SINGER
+
+зажги	O
+рихард	B-COMPOSER
+вагнер	I-COMPOSER
+
+зажги	O
+автора	O
+ворв	B-SINGER
+песню	O
+A	B-SONG
+Qui	I-SONG
+
+пой	O
+первую	B-FILM
+кровь	I-FILM
+
+пой	O
+песню	O
+Let	B-SONG
+Me	I-SONG
+Free	I-SONG
+композитора	O
+джоаккино	B-COMPOSER
+россини	I-COMPOSER
+
+проиграй	O
+пират	B-FILM
+карибск	I-FILM
+моря	I-FILM
+два	I-FILM
+
+вруби	O
+я	B-SONG
+свободен	I-SONG
+
+играй	O
+ком	B-SONG
+туа	I-SONG
+
+пой	O
+далласск	B-FILM
+клуб	I-FILM
+покупател	I-FILM
+
+расскажи	O
+Forest	B-SINGER
+Stream	I-SINGER
+
+воспроизведи	O
+Ryan	B-SINGER
+Adams	I-SINGER
+
+давай	O
+включи	O
+антон	B-COMPOSER
+рубинштейн	I-COMPOSER
+
+расскажи	O
+трэш	B-SINGER
+шапито	I-SINGER
+кач	I-SINGER
+
+давай	O
+включи	O
+куда	B-FILM
+приводят	I-FILM
+мечты	I-FILM
+
+давай	O
+послушаем	O
+шалэт	B-SINGER
+
+играй	O
+композитора	O
+морис	B-COMPOSER
+равел	I-COMPOSER
+песню	O
+El	B-SONG
+Hombre	I-SONG
+Perfecto	I-SONG
+
+давай	O
+послушаем	O
+глюком	B-COMPOSER
+
+спой	O
+
+пой	O
+франц	B-COMPOSER
+шуберт	I-COMPOSER
+
+давай	O
+послушаем	O
+фэйст	B-SINGER
+
+давай	O
+включи	O
+коте	B-BOOK
+и	I-BOOK
+мыш	I-BOOK
+
+включи	O
+лису	B-BOOK
+
+давай	O
+послушаем	O
+автора	O
+зиверт	B-SINGER
+песню	O
+йестадей	B-SONG
+
+спой	O
+песню	O
+тэ	B-SONG
+
+расскажи	O
+Scythelence	B-SINGER
+
+включи	O
+певца	O
+антон	B-SINGER
+чехов	I-SINGER
+
+зажги	O
+автора	O
+Reka	B-SINGER
+песню	O
+та	B-SONG
+
+вруби	O
+погубленн	B-BOOK
+и	I-BOOK
+спасённ	I-BOOK
+
+давай	O
+послушаем	O
+дэи	B-SINGER
+
+воспроизводим	O
+молотх	B-SINGER
+
+давай	O
+послушаем	O
+алекс	B-SINGER
+ла	I-SINGER
+гум	I-SINGER
+
+давай	O
+египтянин	B-SONG
+
+проиграй	O
+крадущ	B-FILM
+тигр	I-FILM
+затаивш	I-FILM
+дракон	I-FILM
+
+проиграй	O
+харе	B-SONG
+рама	I-SONG
+
+вруби	O
+ностальжи	B-SONG
+
+воспроизводим	O
+томас	B-SINGER
+харрис	I-SINGER
+
+включи	O
+трансформер	B-FILM
+три	I-FILM
+
+пой	O
+падени	B-FILM
+чёрн	I-FILM
+
+вруби	O
+из	O
+шест	B-FILM
+песню	O
+ви	B-SONG
+вэрлд	I-SONG
+
+воспроизведи	O
+Seduceme	B-SONG
+
+проиграй	O
+тихон	B-COMPOSER
+николаевич	I-COMPOSER
+хренников	I-COMPOSER
+
+включи	O
+масскв	B-SINGER
+
+вруби	O
+кэрри	B-FILM
+
+играй	O
+
+давай	O
+послушаем	O
+автора	O
+ласл	B-SINGER
+краснахорка	I-SINGER
+песню	O
+Avec	B-SONG
+Le	I-SONG
+Temps	I-SONG
+
+играй	O
+шенберг	B-COMPOSER
+
+расскажи	O
+джон	B-SINGER
+фаулз	I-SINGER
+
+давай	O
+включи	O
+слеиа	B-SINGER
+
+включи	O
+протокол	B-FILM
+фантом	I-FILM
+
+спой	O
+джакомо	B-COMPOSER
+мейербер	I-COMPOSER
+
+воспроизведи	O
+праймас	B-SINGER
+
+расскажи	O
+автора	O
+бэд	B-SINGER
+рилиджан	I-SINGER
+песню	O
+последне	B-SONG
+письм	I-SONG
+
+играй	O
+Demi	B-SINGER
+Lovato	I-SINGER
+
+играй	O
+из	B-SONG
+реки	I-SONG
+
+спой	O
+виктор	B-SINGER
+серж	I-SINGER
+
+включи	O
+голый	B-FILM
+
+включи	O
+прислуг	B-FILM
+
+давай	O
+послушаем	O
+зеда	B-SINGER
+
+играй	O
+оливер	B-SINGER
+голдсмит	I-SINGER
+
+вруби	O
+произведение	O
+Since	B-SONG
+I	I-SONG
+ve	I-SONG
+Been	I-SONG
+Loving	I-SONG
+You	I-SONG
+
+воспроизведи	O
+ди	B-SINGER
+эм	I-SINGER
+
+играй	O
+автора	O
+Pagan	B-SINGER
+Reign	I-SINGER
+
+давай	O
+послушаем	O
+тимати	B-SINGER
+
+зажги	O
+автора	O
+кейрос	B-SINGER
+
+зажги	O
+произведение	O
+The	B-SONG
+Color	I-SONG
+Of	I-SONG
+The	I-SONG
+Night	I-SONG
+
+играй	O
+автора	O
+Timati	B-SINGER
+песню	O
+вье	B-SONG
+
+спой	O
+Neverending	B-SINGER
+War	I-SINGER
+
+зажги	O
+фильм	O
+константин	B-FILM
+повелител	I-FILM
+тьмы	I-FILM
+
+спой	O
+случайн	B-SONG
+вальс	I-SONG
+
+давай	O
+включи	O
+игре	B-FILM
+
+давай	O
+включи	O
+японск	B-BOOK
+сказка	I-BOOK
+
+давай	O
+послушаем	O
+чикаго	B-FILM
+
+зажги	O
+из	O
+вперед	B-FILM
+песню	O
+ноктюрн	B-SONG
+
+воспроизводим	O
+автора	O
+арбенин	B-SINGER
+песню	O
+тонк	B-SONG
+рябина	I-SONG
+
+давай	O
+послушаем	O
+бэлль	B-SONG
+
+спой	O
+
+воспроизведи	O
+джуничир	B-SINGER
+танизак	I-SINGER
+
+спой	O
+хук	B-SINGER
+справа	I-SINGER
+
+включи	O
+песню	O
+Whole	B-SONG
+Lotta	I-SONG
+Rosie	I-SONG
+автора	O
+джонатан	B-SINGER
+франзен	I-SINGER
+
+вруби	O
+тарас	B-BOOK
+бульб	I-BOOK
+
+проиграй	O
+Vladimir	B-SINGER
+Horowitz	I-SINGER
+
+воспроизведи	O
+автора	O
+Necondition	B-SINGER
+песню	O
+анкора	B-SONG
+виво	I-SONG
+
+зажги	O
+автора	O
+джеймс	B-SINGER
+келман	I-SINGER
+песню	O
+ком	B-SONG
+дизе	I-SONG
+
+воспроизведи	O
+трети	B-FILM
+
+воспроизведи	O
+автора	O
+модест	B-SINGER
+песню	O
+тэ	B-SONG
+
+пой	O
+таракан	B-SINGER
+
+давай	O
+послушаем	O
+дорожку	O
+саилэнс	B-SONG
+из	I-SONG
+гоулдан	I-SONG
+
+пой	O
+анатол	B-COMPOSER
+лядов	I-COMPOSER
+
+расскажи	O
+Maroon	B-SINGER
+
+давай	O
+певца	O
+куном	B-SINGER
+
+давай	O
+включи	O
+всегда	B-FILM
+говори	I-FILM
+да	I-FILM
+
+пой	O
+Bonnie	B-SINGER
+Tyler	I-SINGER
+
+пой	O
+автора	O
+Boney	B-SINGER
+neM	I-SINGER
+
+давай	O
+записк	B-BOOK
+
+расскажи	O
+назад	B-FILM
+в	I-FILM
+будущ	I-FILM
+
+расскажи	O
+Neversmile	B-SINGER
+
+давай	O
+джан	B-SINGER
+ку	I-SINGER
+
+давай	O
+послушаем	O
+кауан	B-SINGER
+
+включи	O
+Metallica	B-SINGER
+
+зажги	O
+Addio	B-SONG
+
+давай	O
+включи	O
+филадельфи	B-FILM
+
+давай	O
+включи	O
+
+зажги	O
+произведение	O
+завтра	B-BOOK
+была	I-BOOK
+война	I-BOOK
+
+вруби	O
+туманност	B-BOOK
+андромеды	I-BOOK
+
+зажги	O
+дюмой	B-SINGER
+
+пой	O
+проверочн	B-SINGER
+линейк	I-SINGER
+
+играй	O
+аними	B-SINGER
+
+давай	O
+шэкагоу	B-SINGER
+
+зажги	O
+автора	O
+ничь	B-SINGER
+песню	O
+Pardonne	B-SONG
+Moi	I-SONG
+Ce	I-SONG
+Caprice	I-SONG
+DEnfant	I-SONG
+
+воспроизводим	O
+миюк	B-SINGER
+мияб	I-SINGER
+
+включи	O
+I	B-SINGER
+F	I-SINGER
+K	I-SINGER
+
+расскажи	O
+собач	B-BOOK
+год	I-BOOK
+
+играй	O
+эрдрих	B-SINGER
+
+зажги	O
+салю	B-SONG
+
+проиграй	O
+хороши	B-SONG
+вечера	I-SONG
+на	I-SONG
+оби	I-SONG
+
+вруби	O
+аудиослэйв	B-SINGER
+
+проиграй	O
+автора	O
+псоя	B-SINGER
+песню	O
+маленьк	B-SONG
+елочк	I-SONG
+холодн	I-SONG
+зимой	I-SONG
+
+давай	O
+включи	O
+тошнот	B-BOOK
+
+воспроизведи	O
+гайдн	B-COMPOSER
+
+вруби	O
+шарль	B-COMPOSER
+
+пой	O
+Bad	B-SINGER
+Balance	I-SINGER
+
+включи	O
+стажер	B-FILM
+
+проиграй	O
+песню	O
+Je	B-SONG
+Suis	I-SONG
+Malade	I-SONG
+автора	O
+Tequilajazzz	B-SINGER
+
+давай	O
+послушаем	O
+агат	B-SINGER
+кристи	I-SINGER
+
+расскажи	O
+Belle	B-SONG
+
+воспроизводим	O
+джонатан	B-SINGER
+свифт	I-SINGER
+
+играй	O
+смерт	B-BOOK
+в	I-BOOK
+риме	I-BOOK
+
+воспроизводим	O
+Lei	B-SONG
+Lei	I-SONG
+
+зажги	O
+атакам	B-SINGER
+
+проиграй	O
+втор	B-FILM
+
+воспроизведи	O
+певца	O
+полюсов	B-SINGER
+
+расскажи	O
+книгу	O
+василис	B-BOOK
+прекрасн	I-BOOK
+
+воспроизведи	O
+доспех	B-FILM
+бога	I-FILM
+
+давай	O
+песню	O
+летнего	B-SONG
+дожд	I-SONG
+автора	O
+ральф	B-SINGER
+эллисон	I-SINGER
+
+включи	O
+меленкэмп	B-SINGER
+
+воспроизводим	O
+композитора	O
+кшиштоф	B-COMPOSER
+пендерецк	I-COMPOSER
+песню	O
+I	B-SONG
+Will	I-SONG
+Always	I-SONG
+Love	I-SONG
+You	I-SONG
+
+давай	O
+послушаем	O
+автора	O
+болеслав	B-SINGER
+прус	I-SINGER
+песню	O
+Desert	B-SONG
+Rose	I-SONG
+
+проиграй	O
+автора	O
+пэримитэр	B-SINGER
+песню	O
+Yellow	B-SONG
+River	I-SONG
+
+играй	O
+яда	B-SINGER
+
+воспроизводим	O
+фэр	B-SINGER
+
+давай	O
+послушаем	O
+памяти	B-BOOK
+огня	I-BOOK
+
+давай	O
+включи	O
+автора	O
+манкейз	B-SINGER
+песню	O
+Otherside	B-SONG
+
+спой	O
+нэж	B-SONG
+
+воспроизводим	O
+игор	B-COMPOSER
+стравинск	I-COMPOSER
+
+расскажи	O
+лунн	B-SONG
+сонат	I-SONG
+
+воспроизводим	O
+тихон	B-COMPOSER
+николаевич	I-COMPOSER
+хренников	I-COMPOSER
+
+расскажи	O
+юлеан	B-SINGER
+караулов	I-SINGER
+
+давай	O
+послушаем	O
+орла	B-FILM
+
+спой	O
+тва	B-SONG
+
+включи	O
+видок	B-FILM
+
+воспроизводим	O
+Underoath	B-SINGER
+
+вруби	O
+леизи	B-SONG
+
+вруби	O
+барток	B-COMPOSER
+
+воспроизведи	O
+шугэбэйбз	B-SINGER
+
+зажги	O
+старгэиза	B-SONG
+
+расскажи	O
+русск	B-BOOK
+женщин	I-BOOK
+
+играй	O
+руках	B-FILM
+ножниц	I-FILM
+
+зажги	O
+тихого	B-BOOK
+
+вруби	O
+дорожку	O
+Crazy	B-SONG
+Little	I-SONG
+Thing	I-SONG
+Called	I-SONG
+Love	I-SONG
+
+спой	O
+раумэн	B-SINGER
+
+играй	O
+мэланколи	B-SINGER
+
+зажги	O
+отум	B-SINGER
+
+вруби	O
+божественн	B-BOOK
+комеди	I-BOOK
+
+воспроизводим	O
+гуф	B-SINGER
+
+давай	O
+включи	O
+сартр	B-SINGER
+
+включи	O
+алехандро	B-SONG
+
+воспроизводим	O
+мэлон	B-BOOK
+умира	I-BOOK
+
+спой	O
+A	B-SONG
+Qui	I-SONG
+
+давай	O
+автора	O
+маврик	B-SINGER
+песню	O
+письм	B-SONG
+в	I-SONG
+редакцию	I-SONG
+телевизионной	I-SONG
+передачи	I-SONG
+очевидное	I-SONG
+невероятное	I-SONG
+из	I-SONG
+сумасшедшего	I-SONG
+дома	I-SONG
+
+играй	O
+штиллер	B-BOOK
+
+пой	O
+карен	B-SINGER
+бликсен	I-SINGER
+
+спой	O
+песню	O
+Sharazan	B-SONG
+автора	O
+Peaches	B-SINGER
+
+воспроизводим	O
+произведение	O
+пер	B-SONG
+лючия	I-SONG
+
+давай	O
+включи	O
+Quand	B-SONG
+SArretent	I-SONG
+Les	I-SONG
+Violons	I-SONG
+
+давай	O
+послушаем	O
+комбинаци	B-SINGER
+
+пой	O
+вилэйнз	B-SINGER
+юнайтид	I-SINGER
+
+воспроизводим	O
+песню	O
+олл	B-SONG
+май	I-SONG
+из	O
+дом	B-FILM
+
+воспроизводим	O
+Miike	B-SINGER
+Snow	I-SINGER
+
+воспроизведи	O
+киндзадза	B-FILM
+
+давай	O
+послушаем	O
+одержимост	B-FILM
+
+давай	O
+послушаем	O
+автора	O
+Eddie	B-SINGER
+Vedder	I-SINGER
+песню	O
+групп	B-SONG
+крови	I-SONG
+
+воспроизведи	O
+аэстэсис	B-SINGER
+
+спой	O
+волк	B-FILM
+уоллстрит	I-FILM
+
+зажги	O
+Dont	B-SONG
+Try	I-SONG
+So	I-SONG
+Hard	I-SONG
+
+спой	O
+мальчик	B-FILM
+налётчик	I-FILM
+
+расскажи	O
+автора	O
+корагессан	B-SINGER
+бойл	I-SINGER
+песню	O
+римеинз	B-SONG
+
+пой	O
+григ	B-COMPOSER
+
